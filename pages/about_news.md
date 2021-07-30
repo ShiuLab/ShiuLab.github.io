@@ -6,6 +6,9 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 12/18/20: Lab member Abigail Seeger completed her undergraduate career
+Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
+
 #### 12/7/20: Welcome the newest member of our lab - Kenia Segura Abá
 
 <img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
