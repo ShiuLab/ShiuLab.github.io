@@ -6,11 +6,6 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
-#### 8/19/2021: Goodbye lunch for Abigail
-
-<img src="images/people_past/abigal.png" width="100" align="right">The lab went out to Sultan's to say goodbye to Abigail who is starting a Master's in Applied Statistics at UM in the fall. We wish her all the best in her future endeavors!
-
-
 #### 7/29/21: Siobhan's study on modeling plant genetic redundancy is published
 
 <img src="/images/news/210729_siobhan_genetic_redundancy.jpg" width="100" align="right">Genetic redundancy refers to a situation where an individual with a loss-of-function mutation in one gene (single mutant) does not show an apparent phenotype until one or more paralogs are also knocked out (double/higher-order mutant). Siobhan led a study aiming at understanding the factors contributing to genetic redundancy with machine learning approaches. In addition to Siobhan, Peipei, Serena, Beth, Fanrui, and Melissa have contributed significantly to the study. This work is now [published in Molecular Biology & Evolution.](https://pubmed.ncbi.nlm.nih.gov/33871641/)
