@@ -13,7 +13,6 @@ permalink: "/people_current/"
 
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="abigal.png" alt='photo of abigal'><p>Abigail Seeger</p></li>
   <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
   <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology/CMSE</p></li>
   <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li>
