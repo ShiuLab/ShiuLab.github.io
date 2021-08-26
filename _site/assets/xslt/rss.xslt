@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://ShiuLab.github.io/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/assets/js/modernizr.min.js"></script>
+	<script src="https://ShiuLab.github.io/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="http://localhost:4000/assets/xslt/rss.xslt">
+	<link rel="canonical" href="https://ShiuLab.github.io/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="Lab website of Melissa Lehti-Shiu and Shin-Han Shiu, Professors at Michigan State Universtity">
-	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
+	<meta property="og:url" content="https://ShiuLab.github.io/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Shiu Lab">
@@ -54,34 +54,34 @@
 
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
+	<link type="text/plain" rel="author" href="https://ShiuLab.github.io/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/assets/img/apple-touch-icon-32.png">
+	<link rel="icon" sizes="32x32" href="https://shiulab.github.io/assets/img/apple-touch-icon-32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/assets/img/apple-touch-icon-192.png">
+	<link rel="icon" sizes="192x192" href="https://shiulab.github.io/assets/img/apple-touch-icon-192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/assets/img/apple-touch-icon-180.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://shiulab.github.io/assets/img/apple-touch-icon-180.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/assets/img/apple-touch-icon-152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://shiulab.github.io/assets/img/apple-touch-icon-152.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/assets/img/apple-touch-icon-144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://shiulab.github.io/assets/img/apple-touch-icon-144.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/assets/img/apple-touch-icon-120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://shiulab.github.io/assets/img/apple-touch-icon-120.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/assets/img/apple-touch-icon-114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://shiulab.github.io/assets/img/apple-touch-icon-114.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/assets/img/apple-touch-icon-76.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://shiulab.github.io/assets/img/apple-touch-icon-76.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/assets/img/apple-touch-icon-72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://shiulab.github.io/assets/img/apple-touch-icon-72.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/assets/img/apple-touch-icon.png">	
+	<link rel="apple-touch-icon-precomposed" href="https://shiulab.github.io/assets/img/apple-touch-icon.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/assets/img/apple-touch-icon-144.png">
+	<meta name="msapplication-TileImage" content="https://shiulab.github.io/assets/img/apple-touch-icon-144.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -97,7 +97,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000" class="icon-tree"> Shiu Lab</a></h1>
+      <h1 class="show-for-small-only"><a href="https://ShiuLab.github.io" class="icon-tree"> Shiu Lab</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -150,7 +150,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/contact/">Contact</a></li>
+              <li><a  href="https://ShiuLab.github.io/contact/">Contact</a></li>
 
             
             
@@ -169,7 +169,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/">Home</a></li>
+              <li><a  href="https://ShiuLab.github.io/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -186,24 +186,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/about_mission/">About</a>
+                <a  href="https://ShiuLab.github.io/about_mission/">About</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/about_mission/">Mission</a></li>
+                      <li><a  href="https://ShiuLab.github.io/about_mission/">Mission</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/about_dei/">Diversity, equity, &amp; inclusion</a></li>
+                      <li><a  href="https://ShiuLab.github.io/about_dei/">Diversity, equity, &amp; inclusion</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/about_news/">News</a></li>
+                      <li><a  href="https://ShiuLab.github.io/about_news/">News</a></li>
                     
                   </ul>
 
@@ -222,24 +222,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/people_current/">People</a>
+                <a  href="https://ShiuLab.github.io/people_current/">People</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/people_current/">Current</a></li>
+                      <li><a  href="https://ShiuLab.github.io/people_current/">Current</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/people_past/">Past</a></li>
+                      <li><a  href="https://ShiuLab.github.io/people_past/">Past</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/people_join_us/">Join Us!</a></li>
+                      <li><a  href="https://ShiuLab.github.io/people_join_us/">Join Us!</a></li>
                     
                   </ul>
 
@@ -258,14 +258,14 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/research_projects/">Research</a>
+                <a  href="https://ShiuLab.github.io/research_projects/">Research</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/research_projects/">Projects</a></li>
+                      <li><a  href="https://ShiuLab.github.io/research_projects/">Projects</a></li>
                     
 
                       
@@ -289,19 +289,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/publications_last5/">Publications</a>
+                <a  href="https://ShiuLab.github.io/publications_last5/">Publications</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/publications_last5/">last 5 years</a></li>
+                      <li><a  href="https://ShiuLab.github.io/publications_last5/">last 5 years</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/publications_older/">More than 5 years</a></li>
+                      <li><a  href="https://ShiuLab.github.io/publications_older/">More than 5 years</a></li>
                     
                   </ul>
 
@@ -320,24 +320,24 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/activities_catsup/">Activities</a>
+                <a  href="https://ShiuLab.github.io/activities_catsup/">Activities</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/activities_catsup/">CATSUP</a></li>
+                      <li><a  href="https://ShiuLab.github.io/activities_catsup/">CATSUP</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/activities_social/">Social</a></li>
+                      <li><a  href="https://ShiuLab.github.io/activities_social/">Social</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/activities_outreach/">Outreach</a></li>
+                      <li><a  href="https://ShiuLab.github.io/activities_outreach/">Outreach</a></li>
                     
                   </ul>
 
@@ -363,8 +363,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/" title="Shiu Lab – Computational, Evolutionary, and Predictive Biology Lab">
-				<img src="http://localhost:4000/assets/img/logo.png" alt="Shiu Lab – Computational, Evolutionary, and Predictive Biology Lab">
+			<a id="logo" href="https://shiulab.github.io/" title="Shiu Lab – Computational, Evolutionary, and Predictive Biology Lab">
+				<img src="https://ShiuLab.github.io/assets/img/logo.png" alt="Shiu Lab – Computational, Evolutionary, and Predictive Biology Lab">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -442,7 +442,7 @@
 
             <p class="shadow-black">
               Lab website of Melissa Lehti-Shiu and Shin-Han Shiu, Professors at Michigan State Universtity
-              <a href="http://localhost:4000/about_mission/">More ›</a>
+              <a href="https://ShiuLab.github.io/about_mission/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -471,7 +471,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000"  title=""></a>
+                  <a href="https://ShiuLab.github.io"  title=""></a>
                 </li>
             
               
@@ -517,7 +517,7 @@
 		
 
 
-<script src="http://localhost:4000/assets/js/javascript.min.js"></script>
+<script src="https://ShiuLab.github.io/assets/js/javascript.min.js"></script>
 
 
 

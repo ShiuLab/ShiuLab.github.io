@@ -7,10 +7,19 @@ header:
 permalink: "/publications_older/"
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en)
-[Click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
+[Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en) or [click here for publications in the last 5 years](https://shiulab.github.io/publications_last5/)
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
+
+## 2016
+
+**Uygun S**, Peng C, **Lehti-Shiu MD**, Last R, **Shiu SH**. (2016) Utility and limitations of using gene expression data to identify functional associations. *PLoS Comp. Biol.* 12(12):e1005244 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27935950)
+
+**Panchy N**, **Lehti-Shiu MD**, **Shiu SH**. (2016) Evolution of Gene Duplication in Plants. <font color="blue">[review]</font> *Plant Physiol.* 171(4):2294-316. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27288366)
+
+Kang H, Zhu D, Lin R, Opiyo SO, Jiang N, **Shiu SH**, Wang GL. (2016) A novel method for identifying polymorphic transposable elements via scanning of high-throughput short reads. *DNA Research* 23(3):241-51. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/27098848)
+
+Liu T, Newton L, **Liu MJ**, **Shiu SH**, Farre EM. (2016) A G-box-like motif is necessary for transcriptional regulation by circadian pseudo-response regulators in Arabidopsis. *Plant Physiol.* 170(1):528-39. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/26586835)
 
 ## 2015
 
