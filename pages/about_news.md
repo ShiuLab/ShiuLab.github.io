@@ -19,13 +19,23 @@ header:
 
 <img src="/images/news/210417_shinhan_fungal_pathogen.gif" width="100" align="right">The broad host range of Fusarium virguliforme represents a unique comparative system to identify and define differentially induced responses between an asymptomatic monocot host, maize (Zea mays), and a symptomatic eudicot host, soybean (Glycine max). Led by Amy Baetsen-Young from Brad Day's lab, Shinhan collaborated on a project examining how asymptomatic and symptomatic hosts respond to F. virguliforme transcriptionally. This work is now [published in Plant Cell](https://pubmed.ncbi.nlm.nih.gov/33681966/)
 
-#### 12/7/20: Welcome the newest member of our lab - Kenia Sugura Abá
+#### 12/18/20: Lab member Abigail Seeger completed her undergraduate career
+Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
 
-<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texa-Austin with families in the San Antonio area. Welcome to our lab Kenia!
+#### 12/7/20: Welcome the newest member of our lab - Kenia Segura Abá
 
-#### 9/1/20: Collaborative work on maize ANT1 regulatory network published!
+<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
 
-Arabidopsis AINTEGUMENTA (ANT), an AP2 transcription factor, is known to control plant growth and floral organogenesis. This study is led by Dr. Wen-Hsiung Li from Academia Sinica, Taiwan, which reveals biological roles of ANT1 in several developmental processes beyond its known roles in plant growth and floral organogenesis. It is published in [the Sep. 1st issue of Proc. Natl. Acad. Sci., USA](https://pubmed-ncbi-nlm-nih-gov.proxy1.cl.msu.edu/32817425/). 
+#### 12/3/20: Serena's paper is published with gazillion authors
+The paper that Serena worked on during the [IMPACTS](https://impacts.natsci.msu.edu/) course [Foundations in Computational Plant Science](https://impacts.natsci.msu.edu/program/contents/core-courses-and-forum/), _Composite modeling of leaf shape along shoots discriminates Vitis species better than individual leaves_, has been published! A collaborative effort amont more than 30 authors, the [paper](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11404) is in the December issue of the journal Applications in Plant Sciences
+
+#### 9/21/20: Serena gave lesson in IMPACTS class
+
+Today during the [Foundations of Computational Plant Sciences](https://impacts.natsci.msu.edu/program/contents/core-courses-and-forum/) course, Serena and the team of [IMPACTS](https://impacts.natsci.msu.edu/) trainees from the Spring 2020 [Forum in Computational Plant Sciences](https://impacts.natsci.msu.edu/program/contents/core-courses-and-forum/) presented their lesson plan to students. This lesson plan will soon be submitted for publication in the journal [CourseSource](https://www.coursesource.org/).
+
+#### 9/1/20: Collaborative work on maize ANT1 regulatory network is published!
+
+Arabidopsis AINTEGUMENTA (ANT), an AP2 transcription factor, is known to control plant growth and floral organogenesis. This study is led by Dr. Wen-Hsiung Li from Academia Sinica, Taiwan, which reveals biological roles of ANT1 in several developmental processes beyond its known roles in plant growth and floral organogenesis. It is published in [the Sep. 1st issue of Proc. Natl. Acad. Sci., USA](https://pubmed-ncbi-nlm-nih-gov.proxy1.cl.msu.edu/32817425/).
 
 #### 9/1/20: Christina's story on predictions of plant stress response through multi-omics data integration is published!
 
@@ -34,6 +44,14 @@ Plants respond to their environment by dynamically modulating gene expression. O
 #### 7/30/20: Beth's story on using Arabidopsis annotation information to improve predictions of tomato metabolic genes is published!
 
 Plant specialized metabolites mediate interactions between plants and the environment and have significant agronomical/pharmaceutical value. This study demonstrates that specialized and general metabolic genes can be better predicted by leveraging cross-species information. Additionally, our findings provide an example for transfer learning in genomics where knowledge can be transferred from an information-rich species to an information-poor one. The findings is now available form [In Silico Plant](https://doi.org/10.1093/insilicoplants/diaa005).
+
+#### 7/2/20: Collaborative work on the evolution of a gene cluster in Solanaceae is published!
+
+The hairs on the surface of some species in the nightshade family (Solanaceae) produce acylsugars which deter herbivores and pests from damaging the plants. A tomato gene cluster involved in medium chain acylsugar accumulation was described, and the evolution of this gene cluster was reconstructed. This study is led by Dr. Pengxiang Fan from Prof. Robert L Last's lab, and Peipei has contributed significantly to the evolutionary history reconstruction. It is published in [Elife](https://elifesciences.org/articles/56717).
+
+#### 7/1/20: Ally's offically first day!
+
+Ally has known she was joing the lab and has been occationally joing the lab for lunch meetings up to this point. Now it is the first day as an offical graduate student here at MSU for Ally. Welcoming her to the lab with virtual open arms!
 
 #### 6/25/20: Serena won!!
 
@@ -63,7 +81,7 @@ Plant specialized metabolites mediate interactions between plants and the enviro
 
 #### 4/8/20: Virtual lab lunch for almost a month
 
-<img src="/images/news/200408_lab-lunch.png" width="300" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok! 
+<img src="/images/news/200408_lab-lunch.png" width="300" Hspace="30" align="right">With the social distancing in place, we continue to meet over Zoom. It seems that folks are doing ok!
 
 #### 3/31/20: Collaborative work with Dr. Yan Bao is published
 
@@ -108,6 +126,7 @@ Siobhan gave birth today to her baby boy Ronan! Congrats Siobhan and Geoff!
 #### 9/24/19: Sahra and Christina's work on the regulatory mechanisms of cell-type stress response is published
 
 Our story titled [__Cis-regulatory code for predicting plant cell-type transcriptional response to high salinity__](https://www.ncbi.nlm.nih.gov/pubmed/31551359) is now published in Plant Physiology with Sahra and Christina as joint first authors. Using the root cell-type transcriptome data, Sahra and Christina identified cis-regulatory sequences likely specify cell-type response to high salinity stress. More importantly, machine learning models were built to ask how well the identified regulatory sequences can predict cell-type response. The findings not only advance our understanding of the regulatory mechanisms of the plant spatial transcriptional response, but also suggest broad applicability of the approach to any species, particularly those with little or no trans regulatory data.
+
 
 #### 9/18/19: Christina's work on benchmarking genomic prediction algorithms is published
 
