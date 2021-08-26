@@ -38,7 +38,7 @@ header:
   </tr>
 </table>
 
-## Graduate students
+## Graduate Students & Associates
 <table style="width:100%">
   <col width="50px" />
   <tr>
