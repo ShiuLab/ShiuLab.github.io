@@ -15,9 +15,17 @@ header:
 
 <img src="/images/news/210720_experimental_biology_essay.jpg" width="100" align="right">Computational modeling approaches are underutilized in plant biology. Lead by Renee Dale from Danforth Plant Science Center, Shinhan and seven other colleagues [published an opinion piece in Frontiers in Plant Science](https://pubmed.ncbi.nlm.nih.gov/34354723/) identifying challenges one may face in adopting modeling approach.
 
+#### 6/1/21: Peipei's study on metabolic pathway membership prediction is published 
+
+<img src="/images/news/210601_Peipei_New_Phytologist.png" width="100" align="right">Genes in the same metabolic pathway are assumed to be co-expressed. This study, led by Peipei, aiming to use multiple strategies (including unsupervised and supervised machine learning) to evaluated the utility of gene expression data in the prediction of plant metabolic pathway membership. In addition to Peipei, Bethany, Sahra, Melissa, and Cornelius have contributed significantly to the study. This work is now [published in New Phytologist.](https://pubmed.ncbi.nlm.nih.gov/33749860/)
+
 #### 4/17/21: Why are there no symptoms when a plant is infected with a fungal pathogen? 
 
 <img src="/images/news/210417_shinhan_fungal_pathogen.gif" width="100" align="right">The broad host range of Fusarium virguliforme represents a unique comparative system to identify and define differentially induced responses between an asymptomatic monocot host, maize (Zea mays), and a symptomatic eudicot host, soybean (Glycine max). Led by Amy Baetsen-Young from Brad Day's lab, Shinhan collaborated on a project examining how asymptomatic and symptomatic hosts respond to F. virguliforme transcriptionally. This work is now [published in Plant Cell](https://pubmed.ncbi.nlm.nih.gov/33681966/)
+
+#### 2/2/21: Peipei's study on genome misassembly is published 
+
+<img src="/images/news/210222_Peipei_BMC_genomics.png" width="100" align="right">Tandemly duplicated genomic regions can be misassembled together due to high sequence similarity in short read-based plant assembly, resulting higher read coverages than other regions. Peipei, Fanrui, and Bethany used comparative genomics and machine learning approaches to investigate the factors contributing to the uneven distribution of read depth and the potential misassembly. This work is now [published in BMC Genomics.](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
 #### 12/18/20: Lab member Abigail Seeger completed her undergraduate career
 Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
