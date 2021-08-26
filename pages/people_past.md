@@ -38,9 +38,14 @@ header:
   </tr>
 </table>
 
-## Graduate students
+## Graduate students and associates 
 <table style="width:100%">
   <col width="50px" />
+  <tr>
+    <td><img src="../images/people_past/fanrui.jpg" width="40px"> </td>
+    <td>Fanrui Meng (2017-20) Associate</td>
+    <td> - </td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/50px-siobhan.png" width="40px"> </td>
     <td>Siobhan Cusack (2017-20) PhD, Cell Mol. Biology</td>
@@ -95,6 +100,11 @@ header:
 
 ## Undergrads (MSU)
 <table style="width:100%">
+  <tr>
+    <td><img src="../images/people_past/abigal.png" width="40px"> </td>
+    <td>Abigail Seeger (2019-21)</td>
+    <td>Plant Biology and Statistics</td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/sarah.png" width="40px"> </td>
     <td>Sarah Horan (2017-20)</td>
@@ -357,6 +367,10 @@ header:
 ## Cheer Squad
 <table style="width:100%">
   <col width="50px" />
+  <tr>
+    <td><img src="../images/people_past/Cody_Cleopatra_Theodore.png" width="40px"></td>
+    <td>Cody, Cleopatra, and Theodore Seeger</td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/50px-Melbourne.png"  width="40px"></td>
     <td>Melbourne Moore</td>

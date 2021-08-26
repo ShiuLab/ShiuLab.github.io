@@ -6,6 +6,24 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 8/19/2021: Goodbye lunch for Abigail
+
+<img src="images/people_past/abigal.png" width="100" align="right">The lab went out to Sultan's to say goodbye to Abigail who is starting a Master's in Applied Statistics at UM in the fall. We wish her all the best in her future endeavors!
+
+
+#### 7/29/21: Siobhan's study on modeling plant genetic redundancy is published
+
+<img src="/images/news/210729_siobhan_genetic_redundancy.jpg" width="100" align="right">Genetic redundancy refers to a situation where an individual with a loss-of-function mutation in one gene (single mutant) does not show an apparent phenotype until one or more paralogs are also knocked out (double/higher-order mutant). Siobhan led a study aiming at understanding the factors contributing to genetic redundancy with machine learning approaches. In addition to Siobhan, Peipei, Serena, Beth, Fanrui, and Melissa have contributed significantly to the study. This work is now [published in Molecular Biology & Evolution.](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+
+
+#### 7/20/21: An essay on overcoming challenges to enhancing experimental biology with computational modeling is published
+
+<img src="/images/news/210720_experimental_biology_essay.jpg" width="100" align="right">Computational modeling approaches are underutilized in plant biology. Lead by Renee Dale from Danforth Plant Science Center, Shinhan and seven other colleagues [published an opinion piece in Frontiers in Plant Science](https://pubmed.ncbi.nlm.nih.gov/34354723/) identifying challenges one may face in adopting modeling approach.
+
+#### 4/17/21: Why are there no symptoms when a plant is infected with a fungal pathogen? 
+
+<img src="/images/news/210417_shinhan_fungal_pathogen.gif" width="100" align="right">The broad host range of Fusarium virguliforme represents a unique comparative system to identify and define differentially induced responses between an asymptomatic monocot host, maize (Zea mays), and a symptomatic eudicot host, soybean (Glycine max). Led by Amy Baetsen-Young from Brad Day's lab, Shinhan collaborated on a project examining how asymptomatic and symptomatic hosts respond to F. virguliforme transcriptionally. This work is now [published in Plant Cell](https://pubmed.ncbi.nlm.nih.gov/33681966/)
+
 #### 12/18/20: Lab member Abigail Seeger completed her undergraduate career
 Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
 
