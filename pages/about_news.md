@@ -28,7 +28,7 @@ header:
 <img src="/images/news/210222_Peipei_BMC_genomics.png" width="100" align="right">Tandemly duplicated genomic regions can be misassembled together due to high sequence similarity in short read-based plant assembly, resulting higher read coverages than other regions. Peipei, Fanrui, and Bethany used comparative genomics and machine learning approaches to investigate the factors contributing to the uneven distribution of read depth and the potential misassembly. This work is now [published in BMC Genomics.](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
 #### 12/18/20: Lab member Abigail Seeger completed her undergraduate career
-Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
+<img src="/images/news/IMG_20210819_142916031_HDR.jpg" width="100" align="right">Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
 
 #### 12/7/20: Welcome the newest member of our lab - Kenia Segura Abá
 
