@@ -30,6 +30,9 @@ Congratulations to Kenia for receiving an NRT-IMPACTS fellowship, a training pro
 
 <img src="/images/news/210601_Peipei_New_Phytologist.png" width="100" align="right">Genes in the same metabolic pathway are assumed to be co-expressed. This study, led by Peipei, aiming to use multiple strategies (including unsupervised and supervised machine learning) to evaluated the utility of gene expression data in the prediction of plant metabolic pathway membership. In addition to Peipei, Bethany, Sahra, Melissa, and Cornelius have contributed significantly to the study. This work is now [published in New Phytologist.](https://pubmed.ncbi.nlm.nih.gov/33749860/)
 
+#### 5/11/21: Serena presents an introduction to machine learning at the GLBRC Annual Science Meeting
+<img src="/images/news/05112021_Serena_GLBRC_conference.png" width="100" align="right">Machine learning (ML) is an important tool for making and interpreting predictions in biology. Serena gave a talk introducing the basic concepts of ML and how it can be used to answer biological questions at [GLBRC's](https://www.glbrc.org/) Annual Science Meeting. A recording of the presentation can be found [here](https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8)
+
 #### 5/10/21: Serena becomes a PhD candidate
 
 <img src="/images/news/serena_becomes_a_canidate.png" width="100" align="right">Serena gave a one-hour seminar on her proposed thesis research as part of the second half of her comprehensive exam. Her talk was about automated information extraction and knowledge graphs, and how we can apply them to generate novel hypotheses in the plant sciences. Afterwards she met with her committee for the proposal defense, and passed!
