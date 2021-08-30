@@ -10,14 +10,26 @@ header:
 
 <img src="/images/news/210729_siobhan_genetic_redundancy.jpg" width="100" align="right">Genetic redundancy refers to a situation where an individual with a loss-of-function mutation in one gene (single mutant) does not show an apparent phenotype until one or more paralogs are also knocked out (double/higher-order mutant). Siobhan led a study aiming at understanding the factors contributing to genetic redundancy with machine learning approaches. In addition to Siobhan, Peipei, Serena, Beth, Fanrui, and Melissa have contributed significantly to the study. This work is now [published in Molecular Biology & Evolution.](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
-
 #### 7/20/21: An essay on overcoming challenges to enhancing experimental biology with computational modeling is published
 
 <img src="/images/news/210720_experimental_biology_essay.jpg" width="100" align="right">Computational modeling approaches are underutilized in plant biology. Lead by Renee Dale from Danforth Plant Science Center, Shinhan and seven other colleagues [published an opinion piece in Frontiers in Plant Science](https://pubmed.ncbi.nlm.nih.gov/34354723/) identifying challenges one may face in adopting modeling approach.
 
+#### 7/5/21: The Lab RETURNS!
+
+For the past school year 2020-2021 the lab has been working remotely. Today was the first time all members were able to experience the lab environment together in over a year! This was Kenia and Ally's first oppertunity to settle into the lab space due to their first year being entirely remote. 
+
+#### 6/2/21: Kenia is awarded NRT-IMPACTS and PBHS fellowships
+
+Congratulations to Kenia for receiving an NRT-IMPACTS fellowship, a training program for doctoral students to apply computational approaches to address challenges in plant biology. Kenia also received the PBHS fellowship, which is an NIH funded T32 training program for predoctoral students to pursue research related to plant biotechnology and chemical engineering.
+
+
 #### 6/1/21: Peipei's study on metabolic pathway membership prediction is published 
 
 <img src="/images/news/210601_Peipei_New_Phytologist.png" width="100" align="right">Genes in the same metabolic pathway are assumed to be co-expressed. This study, led by Peipei, aiming to use multiple strategies (including unsupervised and supervised machine learning) to evaluated the utility of gene expression data in the prediction of plant metabolic pathway membership. In addition to Peipei, Bethany, Sahra, Melissa, and Cornelius have contributed significantly to the study. This work is now [published in New Phytologist.](https://pubmed.ncbi.nlm.nih.gov/33749860/)
+
+#### 5/10/21: Serena becomes a PhD candidate
+
+<img src="/images/news/serena_becomes_a_canidate.png" width="100" align="right">Serena gave a one-hour seminar on her proposed thesis research as part of the second half of her comprehensive exam. Her talk was about automated information extraction and knowledge graphs, and how we can apply them to generate novel hypotheses in the plant sciences. Afterwards she met with her committee for the proposal defense, and passed!
 
 #### 4/17/21: Why are there no symptoms when a plant is infected with a fungal pathogen? 
 
@@ -35,6 +47,7 @@ header:
 <img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
 
 #### 12/3/20: Serena's paper is published with gazillion authors
+
 The paper that Serena worked on during the [IMPACTS](https://impacts.natsci.msu.edu/) course [Foundations in Computational Plant Science](https://impacts.natsci.msu.edu/program/contents/core-courses-and-forum/), _Composite modeling of leaf shape along shoots discriminates Vitis species better than individual leaves_, has been published! A collaborative effort amont more than 30 authors, the [paper](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11404) is in the December issue of the journal Applications in Plant Sciences
 
 #### 9/21/20: Serena gave lesson in IMPACTS class
