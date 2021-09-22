@@ -40,6 +40,7 @@ permalink: "/people_current/"
   <li><img src="einstein.jpg" alt='photo of einstein'><p>Einstein</p></li>
   <li><img src="theo.jpg" alt='photo of theo'><p>Theo</p></li>
   <li><img src="Nyx.jpg" alt='photo of Nyx'><p>Nyx</p></li>
+  <li><img src="Candy.png" alt='photo of Candy'><p>Candy jar</p></li>
 </ul>
 </body>
 </html>
