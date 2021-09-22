@@ -20,6 +20,7 @@ permalink: "/people_current/"
   <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li>
   <li><img src="Kenya.png" alt='photo of Kenya'><p> Kenia Segura Abá<br>Genet. & Genome Sci.</p></li>
   <li><img src="elyse.jpg" alt='photo of Elyse'><p> Elyse Vischulis<br>Genet. & Genome Sci.</p></li>
+  <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
@@ -41,6 +42,7 @@ permalink: "/people_current/"
   <li><img src="Kitty.png" alt='photo of kitty'><p>Wiggler</p></li>
   <li><img src="einstein.jpg" alt='photo of einstein'><p>Einstein</p></li>
   <li><img src="theo.jpg" alt='photo of theo'><p>Theo</p></li>
+  <li><img src="Nyx.jpg" alt='photo of Nyx'><p>Nyx</p></li>
 </ul>
 </body>
 </html>
