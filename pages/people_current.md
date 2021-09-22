@@ -3,7 +3,7 @@ layout: page
 title: "Current Members"
 subheadline: "People"
 header:
-  image_fullwidth: "lab_140923b.png"
+  image_fullwidth: "lab_group_2021.jpg"
 permalink: "/people_current/"
 ---
 
