@@ -13,17 +13,17 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-**Peipei Wang<sup>e</sup>, Fanrui Meng<sup>e</sup>, Paityn Donaldson<font color="red"><sup>u</sup></font>, Sarah Horan<font color="red"><sup>u</sup></font>, Nicholas L. Panchy, Elyse Vischulis, Eamon Winship<font color="red"><sup>u</sup></font>**, Jeffrey K. Conner, **Melissa D. Lehti-Shiu<sup>e</sup>, Shin-Han Shiu<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using transfer learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
+**Wang P<sup>e</sup>, Meng F<sup>e</sup>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<sup>e</sup>, Melissa D. Lehti-Shiu MD<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
-__Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in response to wounding: temporal variations, hormonal variations, and specialized metabolism pathways induced by wounding. *[bioRxiv](https://doi.org/10.1101/2020.07.15.204313)*
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
 ## 2021
+__Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *[accepted by The Plant Cell]*
 
 Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *Frontier in Plant Science* 12:687652 *[doi](https://doi.org/10.3389/fpls.2021.687652)*
 
-**Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+**Cusack SA, Wang P, Lotreck SG, Moore BM, Meng F**, Conner JK, Krysan PJ, **Lehti-Shiu MD, Shiu SH**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
 **Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 231(1):475 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)/[pdf](https://github.com/ShiuLab/ShiuLab.github.io/blob/43c3a1cb232653a5720e0744ed47767c14f32a24/images/pubs/2021_NewPhytol_Wang.pdf)
 
