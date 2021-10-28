@@ -13,7 +13,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-**Wang P<sup>e</sup>, Meng F<sup>e</sup>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<sup>e</sup>, Melissa D. Lehti-Shiu MD<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
+**Wang P<sup>e</sup>, Meng F<sup>e</sup>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<sup>e</sup>, Lehti-Shiu MD<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
