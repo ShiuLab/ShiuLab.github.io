@@ -18,6 +18,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
 ## 2021
+
 __Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* (accepted pending revision)
 
 Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* epub [doi](https:/doi.org/10.1007/s00497-021-00432-1) 
