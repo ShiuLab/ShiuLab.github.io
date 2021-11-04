@@ -13,16 +13,11 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-**Wang P<font color="green"><sup>e</sup>, Meng F<font color="green"><sup>e</sup>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<sup>e</sup>, Lehti-Shiu MD<sup>e</sup>**. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
+**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of Arabidopsis thaliana fitness traits using deep learning. *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
 ## 2021
-<<<<<<< HEAD
-__Moore BM__<font color="green"><sup>e</sup>, Lee Y S<font color="green"><sup>e</sup>, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__<font color="green"><sup>e</sup>. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *[accepted by The Plant Cell]*
-=======
->>>>>>> 9f3b4812c91a7eefc91231c2d6d5fd392f24c5e1
-
 __Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* (accepted pending revision)
 
 Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* epub [doi](https:/doi.org/10.1007/s00497-021-00432-1) 
