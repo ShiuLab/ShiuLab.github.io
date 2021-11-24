@@ -18,6 +18,7 @@ permalink: "/people_current/"
   <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li>
   <li><img src="Kenya.png" alt='photo of Kenya'><p> Kenia Segura Abá<br>Genet. & Genome Sci.</p></li>
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
+  <li><img src="Huan.png" alt='photo of Huan'><p>Huan Chen<br>Genet. & Genome Sci.</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
