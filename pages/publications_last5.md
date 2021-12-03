@@ -19,7 +19,7 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2021
 
-__Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *[Plant Cell]* (https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true)
+__Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. [Plant Cell](https://academic.oup.com/plcell/advance-article/doi/10.1093/plcell/koab287/6448773?login=true)
 
 Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* epub [doi](https:/doi.org/10.1007/s00497-021-00432-1) 
 
