@@ -23,6 +23,7 @@ permalink: "/people_current/"
 
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+<li><img src="Elijah.jpg" alt='photo of Elijah'><p>Elijah Persson-Gordon<br>Plant Biology</p></li>
 </ul>
 
 <H3>Those with PhDs</H3>
