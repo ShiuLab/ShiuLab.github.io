@@ -17,7 +17,7 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2022
 
-**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytol* (accepted) *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
+**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* (accepted) *[bioRxiv](https://doi.org/10.1101/2021.07.01.450758)*
 
 **Wang P<font color="green"><sup>e</sup></font>, Schumacher A and Shiu SH<font color="green"><sup>e</sup></font>**. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [Curr Opin Plant Biol.](https://authors.elsevier.com/a/1eStU4tPF3mLW6)
 
