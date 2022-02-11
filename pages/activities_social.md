@@ -13,11 +13,13 @@ permalink: "/activities_social/"
 </head>
 
 #### 11/18/22: Lab meeting and food
-<img src="labmeeting_n_food_2021.jpg" width="350" align="right"> We like to 
+
+<img src="labmeeting_n_food_2021.jpg" width="350" align="right">We like to 
 eat food and talk about science (& food). 
 
 #### 10/28/21: Pumpkin Carving
-<img src="lab_pumpkincraving_2021.jpg" width="350" align="right"> Embracing 
+
+<img src="lab_pumpkincraving_2021.jpg" width="350" align="right">Embracing 
 the fall spirit by carving pumpkins.
 
 #### 11/19/20: Among Us
