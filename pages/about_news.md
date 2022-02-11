@@ -20,7 +20,7 @@ Fitness (number of seeds or fruits producted by an individual) is challenging to
 
 #### 10/12/21: Welcome to the lab, Huan!
 
-<img src="/images/news/210211_Huan_joins_lab.jpg" width="100" Hspace="30" align="right">Huan is officially a member of the Shiu lab! She is a third year graduate student in the Genetics and Genome Sciences and Molecular Plant Sciences Programs. We're glad to have you Huan!
+<img src="/images/news/210211_Huan_joins_lab.png" width="100" Hspace="30" align="right">Huan is officially a member of the Shiu lab! She is a third year graduate student in the Genetics and Genome Sciences and Molecular Plant Sciences Programs. We're glad to have you Huan!
 
 #### 09/21/21: Brianna joins the lab!
 
