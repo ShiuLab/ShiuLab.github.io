@@ -12,11 +12,11 @@ Fitness (number of seeds or fruits producted by an individual) is challenging to
 
 #### 1/22/22 Peipei's review paper on computational prediction of plant metabolic pathway genes is published
 
-<img src="/images/news/2022_Current_Opin.jpg" width="100" align="right"> Uncovering genes encoding enzymes responsible for the biosynthesis of diverse plant metabolites is essential for metabolic engineering and production of plant metabolite-derived medicine. Peipei, Ally and Shin-Han wrote a review paper regarding recent progress in the computational prediction of plant metabolic pathway genes. This review is now [published in Current Opinion in Plant Biology.](https://www.sciencedirect.com/science/article/pii/S1369526621001734?dgcid=author)
+<img src="/images/news/2022_Current_Opin.jpg" width="100" Hspace="30" align="right"> Uncovering genes encoding enzymes responsible for the biosynthesis of diverse plant metabolites is essential for metabolic engineering and production of plant metabolite-derived medicine. Peipei, Ally and Shin-Han wrote a review paper regarding recent progress in the computational prediction of plant metabolic pathway genes. This review is now [published in Current Opinion in Plant Biology.](https://www.sciencedirect.com/science/article/pii/S1369526621001734?dgcid=author)
 
 #### 12/2/21 Beth's study on wounding transcriptional responses is published
 
-<img src="/images/news/2021_PC_Fig1.jpg" width="100" align="right">Plants respond to wounding stress by changing gene expression patterns and inducing the production of hormones including jasmonic acid. Bethany led a study modeling the temporal and hormonal regulation of plant transcriptional response to wounding in Arabidopsis. This work is now [published in The Plant Cell.](https://academic.oup.com/plcell/article/34/2/867/6448773?login=true)
+<img src="/images/news/2021_PC_Fig1.jpg" width="100" Hspace="30" align="right">Plants respond to wounding stress by changing gene expression patterns and inducing the production of hormones including jasmonic acid. Bethany led a study modeling the temporal and hormonal regulation of plant transcriptional response to wounding in Arabidopsis. This work is now [published in The Plant Cell.](https://academic.oup.com/plcell/article/34/2/867/6448773?login=true)
 
 #### 10/12/21: Welcome to the lab, Huan!
 
