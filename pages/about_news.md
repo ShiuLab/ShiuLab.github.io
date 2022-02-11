@@ -6,6 +6,26 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 2/9/22 Peipei and Fanrui's study on measuring Arabidopsis fitness using Faster R-CNN is accepted
+
+Fitness (number of seeds or fruits producted by an individual) is challenging to measure accurately due to the high fecundity and relatively small propagule sizes. Peipei and Fanrui, with significant contribution from other colleagues, established Faster R-CNN based object detection models which can automatively detect and count Arabidopsis seeds and siliques in high throughput. This work is now [accepted in New Phytologist.]
+
+#### 1/22/22 Peipei's review paper on computational prediction of plant metabolic pathway genes is published
+
+<img src="/images/news/2022_Current_Opin.jpg" width="100" Hspace="30" align="right"> Uncovering genes encoding enzymes responsible for the biosynthesis of diverse plant metabolites is essential for metabolic engineering and production of plant metabolite-derived medicine. Peipei, Ally and Shin-Han wrote a review paper regarding recent progress in the computational prediction of plant metabolic pathway genes. This review is now [published in Current Opinion in Plant Biology.](https://www.sciencedirect.com/science/article/pii/S1369526621001734?dgcid=author)
+
+#### 12/2/21 Beth's study on wounding transcriptional responses is published
+
+<img src="/images/news/2021_PC_Fig1.jpg" width="100" Hspace="30" align="right">Plants respond to wounding stress by changing gene expression patterns and inducing the production of hormones including jasmonic acid. Bethany led a study modeling the temporal and hormonal regulation of plant transcriptional response to wounding in Arabidopsis. This work is now [published in The Plant Cell.](https://academic.oup.com/plcell/article/34/2/867/6448773?login=true)
+
+#### 10/12/21: Welcome to the lab, Huan!
+
+<img src="/images/news/210211_Huan_joins_lab.jpg" width="100" Hspace="30" align="right">Huan is officially a member of the Shiu lab! She is a third year graduate student in the Genetics and Genome Sciences and Molecular Plant Sciences Programs. We're glad to have you Huan!
+
+#### 09/21/21: Brianna joins the lab!
+
+<img src="/images/news/210211_Brianna_joins_lab.jpg" width="100" Hspace="30" align="right"> 06/12/21: Brianna rotated in the lab during the summer and surprised us all one day when she walked in and exclaimed "I'm joining the lab!". She graduated from Stanford University with a Bachelor's degree in Earth Systems and Human Biology. Brianna is also an NRT-IMPACTS fellow and is a first year graduate student in the Plant Biology program. Welcome Brianna!
+
 #### 8/1/21: New grant for the lab
 <img src="/images/news/NSF_4-Color_bitmap_Logo.tif" width="100" align="right">In collaboration with two MSU faculty Jiliang Tang and Yuying Xie, Melissa and Shin-Han got an NSF Plant Genome Research Program grant titled [Connecting sequences to functions within and between species through computational modeling and experimental studies](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107215&HistoricalAwards=false). To have more complete knowledge of how plants work, we will connect DNA sequences with traits they control using an Artificial Intelligence-based approach, machine learning where computers are used to uncover hidden patterns from a wide range of biological data. In addition, we will apply transfer learning to translate knowledge from one plant species to another so we can later transfer what we know about model plants to other species. The outcome of the project will be computer programs that can predict the connections between DNA sequence and traits and transfer information across species. Using these programs, scientists can better understand how plants work and this knowledge can ultimately be used to create more productive and resilient plants.
 
@@ -50,7 +70,7 @@ Congratulations to Kenia for receiving an NRT-IMPACTS fellowship, a training pro
 
 #### 12/7/20: Welcome the newest member of our lab - Kenia Segura Abá
 
-<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
+<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genome Sciences Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
 
 #### 12/3/20: Serena's paper is published with gazillion authors
 
