@@ -6,6 +6,10 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 2/21/22 Serena interviewed about her research for the Sci-Files podcast
+<img src="/images/news/2022_scifiles.jpeg" width="100" Hspace="30" align="right"> Sci-Files is a science communication podcast produced by MSU's SciComm club, where graduate students are interviewed about their research. Serena was interviewed about her work on knowledge graphs for the February 20th episode, which is [published here as a podcast](https://impact89fm.org/109142/podcasts/the-sci-files-02-20-2022-serena-lotreck-automated-hypothesis-generation-for-the-plant-sciences/).
+
+
 #### 2/9/22 Peipei and Fanrui's study on measuring Arabidopsis fitness using Faster R-CNN is accepted
 
 Fitness (number of seeds or fruits producted by an individual) is challenging to measure accurately due to the high fecundity and relatively small propagule sizes. Peipei and Fanrui, with significant contribution from other colleagues, established Faster R-CNN based object detection models which can automatively detect and count Arabidopsis seeds and siliques in high throughput. This work is now accepted in New Phytologist.
