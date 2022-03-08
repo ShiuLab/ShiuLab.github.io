@@ -6,11 +6,78 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 2/21/22 Serena interviewed about her research for the Sci-Files podcast
+<img src="/images/news/2022_scifiles.jpeg" width="100" Hspace="30" align="right"> Sci-Files is a science communication podcast produced by MSU's SciComm club, where graduate students are interviewed about their research. Serena was interviewed about her work on knowledge graphs for the February 20th episode, which is [published here as a podcast](https://impact89fm.org/109142/podcasts/the-sci-files-02-20-2022-serena-lotreck-automated-hypothesis-generation-for-the-plant-sciences/).
+
+
+#### 2/9/22 Peipei and Fanrui's study on measuring Arabidopsis fitness using Faster R-CNN is accepted
+
+Fitness (number of seeds or fruits producted by an individual) is challenging to measure accurately due to the high fecundity and relatively small propagule sizes. Peipei and Fanrui, with significant contribution from other colleagues, established Faster R-CNN based object detection models which can automatively detect and count Arabidopsis seeds and siliques in high throughput. This work is now accepted in New Phytologist.
+
+#### 1/22/22 Peipei's review paper on computational prediction of plant metabolic pathway genes is published
+
+<img src="/images/news/2022_Current_Opin.jpg" width="100" Hspace="30" align="right"> Uncovering genes encoding enzymes responsible for the biosynthesis of diverse plant metabolites is essential for metabolic engineering and production of plant metabolite-derived medicine. Peipei, Ally and Shin-Han wrote a review paper regarding recent progress in the computational prediction of plant metabolic pathway genes. This review is now [published in Current Opinion in Plant Biology.](https://www.sciencedirect.com/science/article/pii/S1369526621001734?dgcid=author)
+
+#### 12/2/21 Beth's study on wounding transcriptional responses is published
+
+<img src="/images/news/2021_PC_Fig1.jpg" width="100" Hspace="30" align="right">Plants respond to wounding stress by changing gene expression patterns and inducing the production of hormones including jasmonic acid. Bethany led a study modeling the temporal and hormonal regulation of plant transcriptional response to wounding in Arabidopsis. This work is now [published in The Plant Cell.](https://academic.oup.com/plcell/article/34/2/867/6448773?login=true)
+
+#### 10/12/21: Welcome to the lab, Huan!
+
+<img src="/images/news/210211_Huan_joins_lab.png" width="100" Hspace="30" align="right">Huan is officially a member of the Shiu lab! She is a third year graduate student in the Genetics and Genome Sciences and Molecular Plant Sciences Programs. We're glad to have you Huan!
+
+#### 09/21/21: Brianna joins the lab!
+
+<img src="/images/news/210211_Brianna_joins_lab.jpg" width="100" Hspace="30" align="right"> 06/12/21: Brianna rotated in the lab during the summer and surprised us all one day when she walked in and exclaimed "I'm joining the lab!". She graduated from Stanford University with a Bachelor's degree in Earth Systems and Human Biology. Brianna is also an NRT-IMPACTS fellow and is a first year graduate student in the Plant Biology program. Welcome Brianna!
+
+#### 8/1/21: New grant for the lab
+<img src="/images/news/NSF_4-Color_bitmap_Logo.tif" width="100" align="right">In collaboration with two MSU faculty Jiliang Tang and Yuying Xie, Melissa and Shin-Han got an NSF Plant Genome Research Program grant titled [Connecting sequences to functions within and between species through computational modeling and experimental studies](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107215&HistoricalAwards=false). To have more complete knowledge of how plants work, we will connect DNA sequences with traits they control using an Artificial Intelligence-based approach, machine learning where computers are used to uncover hidden patterns from a wide range of biological data. In addition, we will apply transfer learning to translate knowledge from one plant species to another so we can later transfer what we know about model plants to other species. The outcome of the project will be computer programs that can predict the connections between DNA sequence and traits and transfer information across species. Using these programs, scientists can better understand how plants work and this knowledge can ultimately be used to create more productive and resilient plants.
+
+#### 7/29/21: Siobhan's study on modeling plant genetic redundancy is published
+
+<img src="/images/news/210729_siobhan_genetic_redundancy.jpg" width="100" align="right">Genetic redundancy refers to a situation where an individual with a loss-of-function mutation in one gene (single mutant) does not show an apparent phenotype until one or more paralogs are also knocked out (double/higher-order mutant). Siobhan led a study aiming at understanding the factors contributing to genetic redundancy with machine learning approaches. In addition to Siobhan, Peipei, Serena, Beth, Fanrui, and Melissa have contributed significantly to the study. This work is now [published in Molecular Biology & Evolution.](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+
+#### 7/20/21: An essay on overcoming challenges to enhancing experimental biology with computational modeling is published
+
+<img src="/images/news/210720_experimental_biology_essay.jpg" width="100" align="right">Computational modeling approaches are underutilized in plant biology. Lead by Renee Dale from Danforth Plant Science Center, Shinhan and seven other colleagues [published an opinion piece in Frontiers in Plant Science](https://pubmed.ncbi.nlm.nih.gov/34354723/) identifying challenges one may face in adopting modeling approach.
+
+#### 7/5/21: The Lab RETURNS!
+
+For the past school year 2020-2021 the lab has been working remotely. Today was the first time all members were able to experience the lab environment together in over a year! This was Kenia and Ally's first oppertunity to settle into the lab space due to their first year being entirely remote. 
+
+#### 6/2/21: Kenia is awarded NRT-IMPACTS and PBHS fellowships
+
+Congratulations to Kenia for receiving an NRT-IMPACTS fellowship, a training program for doctoral students to apply computational approaches to address challenges in plant biology. Kenia also received the PBHS fellowship, which is an NIH funded T32 training program for predoctoral students to pursue research related to plant biotechnology and chemical engineering.
+
+
+#### 6/1/21: Peipei's study on metabolic pathway membership prediction is published 
+
+<img src="/images/news/210601_Peipei_New_Phytologist.png" width="100" align="right">Genes in the same metabolic pathway are assumed to be co-expressed. This study, led by Peipei, aiming to use multiple strategies (including unsupervised and supervised machine learning) to evaluated the utility of gene expression data in the prediction of plant metabolic pathway membership. In addition to Peipei, Bethany, Sahra, Melissa, and Cornelius have contributed significantly to the study. This work is now [published in New Phytologist.](https://pubmed.ncbi.nlm.nih.gov/33749860/)
+
+#### 5/11/21: Serena presents an introduction to machine learning at the GLBRC Annual Science Meeting
+<img src="/images/news/05112021_Serena_GLBRC_conference.png" width="100" align="right">Machine learning (ML) is an important tool for making and interpreting predictions in biology. Serena gave a talk introducing the basic concepts of ML and how it can be used to answer biological questions at [GLBRC's](https://www.glbrc.org/) Annual Science Meeting. A recording of the presentation can be found [here](https://mediaspace.msu.edu/media/Intro+to+ML+-+GLBRC+Annual+Science+Meeting/1_w6nw7tt8)
+
+#### 5/10/21: Serena becomes a PhD candidate
+
+<img src="/images/news/serena_becomes_a_canidate.png" width="100" align="right">Serena gave a one-hour seminar on her proposed thesis research as part of the second half of her comprehensive exam. Her talk was about automated information extraction and knowledge graphs, and how we can apply them to generate novel hypotheses in the plant sciences. Afterwards she met with her committee for the proposal defense, and passed!
+
+#### 4/17/21: Why are there no symptoms when a plant is infected with a fungal pathogen? 
+
+<img src="/images/news/210417_shinhan_fungal_pathogen.gif" width="100" align="right">The broad host range of Fusarium virguliforme represents a unique comparative system to identify and define differentially induced responses between an asymptomatic monocot host, maize (Zea mays), and a symptomatic eudicot host, soybean (Glycine max). Led by Amy Baetsen-Young from Brad Day's lab, Shinhan collaborated on a project examining how asymptomatic and symptomatic hosts respond to F. virguliforme transcriptionally. This work is now [published in Plant Cell](https://pubmed.ncbi.nlm.nih.gov/33681966/)
+
+#### 2/2/21: Peipei's study on genome misassembly is published 
+
+<img src="/images/news/210222_Peipei_BMC_genomics.png" width="100" align="right">Tandemly duplicated genomic regions can be misassembled together due to high sequence similarity in short read-based plant assembly, resulting higher read coverages than other regions. Peipei, Fanrui, and Bethany used comparative genomics and machine learning approaches to investigate the factors contributing to the uneven distribution of read depth and the potential misassembly. This work is now [published in BMC Genomics.](https://pubmed.ncbi.nlm.nih.gov/33530937/)
+
+#### 12/18/20: Lab member Abigail Seeger completed her undergraduate career
+<img src="/images/news/IMG_20210819_142916031_HDR.jpg" width="100" align="right">Abigail graduated from Lyman Briggs College with degrees in Statistics and Plant Biology in a virtual commencement ceremony. She plans to continue working with the lab in the spring '21.
+
 #### 12/7/20: Welcome the newest member of our lab - Kenia Segura Abá
 
-<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genomic Science Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
+<img src="/images/news/201210_kenia_joining_lab.jpg" width="100" Hspace="30" align="right">Kenia is a first year graduate student in the Genetics and Genome Sciences Program. She rotated over the summer and has made the decision to join our lab today! She graduated from University of Texas-Austin with families in the San Antonio area. Welcome to our lab Kenia!
 
 #### 12/3/20: Serena's paper is published with gazillion authors
+
 The paper that Serena worked on during the [IMPACTS](https://impacts.natsci.msu.edu/) course [Foundations in Computational Plant Science](https://impacts.natsci.msu.edu/program/contents/core-courses-and-forum/), _Composite modeling of leaf shape along shoots discriminates Vitis species better than individual leaves_, has been published! A collaborative effort amont more than 30 authors, the [paper](https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/aps3.11404) is in the December issue of the journal Applications in Plant Sciences
 
 #### 9/21/20: Serena gave lesson in IMPACTS class
@@ -45,12 +112,6 @@ Ally has known she was joing the lab and has been occationally joing the lab for
 #### 6/21/20: Virtual lunch in its 3rd month... Now with Fanrui!!
 
 <img src="/images/news/200621_fanrui_small.png" width="100" Hspace="30" align="right">Fanrui, our deep learning expert, Peipei's beloved husband, and a great cook, is finally back after getting stuck in China for >6 months due to the COVID19, repeated flight canceldation, and long stay in the secondary screen through the immigration. Welcome back!
-
-#### 6/11/20: Kevin, Ally's brother, says hi!
-
-<img src="/images/news/200611_kevin_says_hi.png" width="100" Hspace="30" align="right">Kevin likes to draw/color while Ally does work. During our lab reading group meeting, Kevin decided to draw a picture for all of us. Here it is!
-<br>
-<br>
 
 #### 5/13/20: Virtual lab lunch at its second month
 

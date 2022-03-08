@@ -13,20 +13,29 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-__Moore BM__, Lee Y S, Grotewold E, __Shiu SH__. Modeling gene regulation in response to wounding: temporal variations, hormonal variations, and specialized metabolism pathways induced by wounding. *[bioRxiv](https://doi.org/10.1101/2020.07.15.204313)*
-
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
-Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *[OSFPreprint](https://doi.org/10.31219/osf.io/jfdb9)*
+## 2022
+
+**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18056)
+
+**Wang P<font color="green"><sup>e</sup></font>, Schumacher A and Shiu SH<font color="green"><sup>e</sup></font>**. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
 
 ## 2021
-**Siobhan A. Cusack, Peipei Wang, Serena G. Lotreck, Bethany M. Moore, Fanrui Meng**, Jeffrey K. Conner, Patrick J. Krysan, **Melissa D. Lehti-Shiu, Shin-Han Shiu**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution*  (accepted) *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.250225v1)*
 
-**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* [accepted](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17355)
+__Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 3;34(2):867-888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/)
+
+Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* 35(1):61-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34716496/) 
+
+Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *Frontier in Plant Science* 12:687652 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34354723/)
+
+**Cusack SA, Wang P, Lotreck SG, Moore BM, Meng F**, Conner JK, Krysan PJ, **Lehti-Shiu MD, Shiu SH**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+
+**Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 231(1):475-489 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)
 
 **Wang PP, Meng FR, Moore BM, Shiu SH**. Impact of short-read sequencing on the misassembly of a plant genome. *BMC Genomics* 22(1):99 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33530937/)
 
-Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* (epub) [doi](https://doi.org/10.1093/plcell/koaa021)
+Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* 17;33(2):224-247 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33681966/)
 
 ## 2020
 
