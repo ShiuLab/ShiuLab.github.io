@@ -17,19 +17,19 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2022
 
-**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* (accepted) [New Phytologist](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/nph.18056)
+**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* [New Phytologist] 234:1521–1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
 **Wang P<font color="green"><sup>e</sup></font>, Schumacher A and Shiu SH<font color="green"><sup>e</sup></font>**. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
 
-## 2021
+__Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 34(2):867-888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/)
 
-__Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 3;34(2):867-888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/)
+## 2021
 
 Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* 35(1):61-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34716496/) 
 
 Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *Frontier in Plant Science* 12:687652 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34354723/)
 
-**Cusack SA, Wang P, Lotreck SG, Moore BM, Meng F**, Conner JK, Krysan PJ, **Lehti-Shiu MD, Shiu SH**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 10.1093/molbev/msab111 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
+**Cusack SA, Wang P, Lotreck SG, Moore BM, Meng F**, Conner JK, Krysan PJ, **Lehti-Shiu MD, Shiu SH**. Predictive models of genetic redundancy in Arabidopsis thaliana. *Molecular Biology and Evolution* 38(8):3397-3414 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33871641/)
 
 **Wang P, Moore BM, Ugyun S, Lehti-Shiu M**, Barry C, **Shiu SH**. 	Optimizing the use of gene expression data to predict plant metabolic pathway memberships. *New Phytologist* 231(1):475-489 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33749860/)
 
