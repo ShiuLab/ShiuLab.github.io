@@ -8,7 +8,9 @@ header:
 ---
 
 ## Postdoctoral scientists
-Please send your CV to the PI (shius at msu dot edu) and inquire about whether there are open positions.
+We are currently recruiting a research associate to work on a DOE funded project in understanding the genetic bases of traits of a bioenergy crop, switchgrass using computational approaches. If you are interested, please apply through this page:
+
+https://careers.msu.edu/en-us/job/510458/research-associatefixed-term
 
 ## Graduate students
 We are always looking for motivated students who are interested in multi-disciplinary works to bring experimental and computational biology together. We'd suggest that you contact the PI (shius at msu dot edu) and inquire.
