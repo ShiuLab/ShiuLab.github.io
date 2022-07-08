@@ -6,6 +6,10 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+
+#### 4/26/22: A big congratulations to Elijah, who was accepted into an REU program!
+Elijah will spend the summer at Washington State University where he will be working with Dr. Arron H. Carter's lab as part of the [USDA/NIFA FACT: Research Experience for Undergraduates on Phenomics Big Data Management](https://labs.wsu.edu/sankaran-phenomics/undergrad-research-exp/) program.
+
 #### 2/21/22: Serena interviewed about her research for the Sci-Files podcast
 <img src="/images/news/2022_scifiles.jpeg" width="100" Hspace="30" align="right"> Sci-Files is a science communication podcast produced by MSU's SciComm club, where graduate students are interviewed about their research. Serena was interviewed about her work on knowledge graphs for the February 20th episode, which is [published here as a podcast](https://impact89fm.org/109142/podcasts/the-sci-files-02-20-2022-serena-lotreck-automated-hypothesis-generation-for-the-plant-sciences/).
 
