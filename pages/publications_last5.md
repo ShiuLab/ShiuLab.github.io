@@ -17,15 +17,20 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2022
 
-**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* [New Phytologist] 234:1521–1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
+Lucker BF, Temple JA, **Panchy NL**<font color="red"><sup>u</sup></font>, Benning UF, BibikaPeter JD, Neofotis PG, Weissman JC, Baxter IR, Shiu SH, Kramer DM. Selection-enriched genomic loci (SEGL) reveals genetic loci for environmental adaptation and photosynthetic productivity in Chlamydomonas reinhardtii. *Algal Res* 64:102709 [doi](https://doi.org/10.1016/j.algal.2022.102709)
+
+van Dijk ADJ, **Shiu SH**, de Ridder D. Editorial: Artificial Intelligence and Machine Learning Applications in Plant Genomics and Genetics.
+ *Front Artif Intell.* 5:959470 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35832206/)
+
+**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* 234:1521–1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
 **Wang P<font color="green"><sup>e</sup></font>, Schumacher A and Shiu SH<font color="green"><sup>e</sup></font>**. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
 
 __Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 34(2):867-888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/)
 
-## 2021
-
 Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* 35(1):61-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34716496/) 
+
+## 2021
 
 Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nelson ADL, Bucksch A. Overcoming the challenges to enhancing experimental plant biology with computational modeling. *Frontier in Plant Science* 12:687652 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34354723/)
 
