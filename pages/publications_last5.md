@@ -17,7 +17,7 @@ Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu
 
 ## 2022
 
-Lucker BF, Temple JA, **Panchy NL**<font color="red"><sup>u</sup></font>, Benning UF, BibikaPeter JD, Neofotis PG, Weissman JC, Baxter IR, Shiu SH, Kramer DM. Selection-enriched genomic loci (SEGL) reveals genetic loci for environmental adaptation and photosynthetic productivity in Chlamydomonas reinhardtii. *Algal Res* 64:102709 [doi](https://doi.org/10.1016/j.algal.2022.102709)
+Lucker BF, Temple JA, **Panchy NL**, Benning UF, BibikaPeter JD, Neofotis PG, Weissman JC, Baxter IR, Shiu SH, Kramer DM. Selection-enriched genomic loci (SEGL) reveals genetic loci for environmental adaptation and photosynthetic productivity in Chlamydomonas reinhardtii. *Algal Res* 64:102709 [doi](https://doi.org/10.1016/j.algal.2022.102709)
 
 van Dijk ADJ, **Shiu SH**, de Ridder D. Editorial: Artificial Intelligence and Machine Learning Applications in Plant Genomics and Genetics.
  *Front Artif Intell.* 5:959470 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35832206/)
