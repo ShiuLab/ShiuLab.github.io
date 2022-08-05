@@ -15,6 +15,8 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
+**Ranaweera T, Brown BNI, Wang P, Shiu SH**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. *[bioRxiv](https://doi.org/10.1101/2022.08.01.502344)*
+
 ## 2022
 
 Lucker BF, Temple JA, **Panchy NL**, Benning UF, BibikaPeter JD, Neofotis PG, Weissman JC, Baxter IR, __Shiu SH__, Kramer DM. Selection-enriched genomic loci (SEGL) reveals genetic loci for environmental adaptation and photosynthetic productivity in Chlamydomonas reinhardtii. *Algal Res* 64:102709 [doi](https://doi.org/10.1016/j.algal.2022.102709)
@@ -28,7 +30,7 @@ van Dijk ADJ, **Shiu SH**, de Ridder D. Editorial: Artificial Intelligence and M
 
 __Moore BM__, Lee Y S, __Wang PP, Azodi C__, Grotewold E, __Shiu SH__. Modeling temporal and hormonal regulation of plant transcriptional response to wounding. *Plant Cell* 34(2):867-888 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34865154/)
 
-Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* 35(1):61-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34716496/) 
+Noble JA, __Seddon A, Uygun S__, Bright A, Smith SE, __Shiu SH__, Palanivelu R. The SEEL motif and members of the MYB-related REVEILLE transcription factor family are important for the expression of LORELEI in the synergid cells of the Arabidopsis female gametophyte. *Plant Reproduction* 35(1):61-76 [pubmed](https://pubmed.ncbi.nlm.nih.gov/34716496/)
 
 ## 2021
 
@@ -84,11 +86,7 @@ Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, 
 
 **Lloyd JP, Tsai ZTY, Sowers RP<font color="red"><sup>u</sup></font>, Panchy NL, Shiu SH** (2018) A model-based approach for identifying functional intergenic transcribed regions and non-coding RNAs. *Mol. Biol. Evol.* 35(6):1422-1436 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29554332)
 
-Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234) 
+Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234)
 
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
-
-
-
-
