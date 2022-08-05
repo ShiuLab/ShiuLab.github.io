@@ -15,7 +15,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
 
-**Ranaweera T, Brown BNI, Wang P, Shiu SH**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. *[bioRxiv](https://doi.org/10.1101/2022.08.01.502344)*
+**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. *[bioRxiv](https://doi.org/10.1101/2022.08.01.502344)*
 
 ## 2022
 
