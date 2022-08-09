@@ -7,7 +7,7 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
-### 8/8/22: Welcome to the lab Isaia!
+#### 8/8/22: Welcome to the lab Isaia!
 Isaia is an exchange student from the Heinrich-Heine University of Düsseldorf in Düsseldorf, Germany. We are very excited to have him here with us. Welcome to MSU!
 
 #### 8/1/22: Eleanor joins the Shiu Lab!
