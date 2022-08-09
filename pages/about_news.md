@@ -11,7 +11,7 @@ header:
 Isaia is an exchange student from the Heinrich-Heine University of Düsseldorf in Düsseldorf, Germany. We are very excited to have him here with us. Welcome to MSU!
 
 #### 8/1/22: Eleanor joins the Shiu Lab!
-<img src="/images/news/eleanor.jpeg" width="100" Hspace="30" align="right"> Eleanor initially joined the lab in June as an intern from the University of Michigan's Data Science Master's Programm, and has now decided to stay with us! She will be working as a research technician in our lab. We are happy to have you, Eleanor!
+<img src="/images/news/eleanor.jpg" width="100" Hspace="30" align="right"> Eleanor initially joined the lab in June as an intern from the University of Michigan's Data Science Master's Programm, and has now decided to stay with us! She will be working as a research technician in our lab. We are happy to have you, Eleanor!
 
 #### 5/26/22: Kenia becomes a PhD candidate!
 Kenia presented an hour-long seminar on her proposed thesis research. Her talk was about dissecting changes in the genetic architecture of fitness across environments and cross-species predictions of genetic interactions. 
