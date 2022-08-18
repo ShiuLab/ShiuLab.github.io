@@ -41,7 +41,7 @@ permalink: "/people_current/"
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="Kitty.png" alt='photo of kitty'><p>Wiggler</p></li>
   <li><img src="Nyx.jpg" alt='photo of Nyx'><p>Nyx</p></li>
-  <li><img src="Candy.png" alt='photo of Candy'><p>Candy jar</p></li>
+  <li><img src="Candy.png" alt='photo of Candy'><p>The Jar</p></li>
 </ul>
 </body>
 </html>
