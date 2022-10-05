@@ -7,8 +7,20 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
+#### 8/8/22: Welcome to the lab Isaia!
+Isaia is an exchange graduate student from the Heinrich-Heine University of Düsseldorf in Düsseldorf, Germany. We are very excited to have him here with us. Welcome to MSU!
+
+#### 8/1/22: Eleanor joins the Shiu Lab!
+<img src="/images/news/eleanor.jpg" width="100" Hspace="30" align="right"> Eleanor initially joined the lab in June as an intern from the University of Michigan's Data Science Master's Program, and has now decided to stay with us! She will be working as a research technician in our lab. We are happy to have you, Eleanor!
+
+#### 5/26/22: Kenia becomes a PhD candidate!
+Kenia presented an hour-long seminar on her proposed thesis research. Her talk was about dissecting changes in the genetic architecture of fitness across environments and cross-species predictions of genetic interactions. 
+
 #### 4/26/22: A big congratulations to Elijah, who was accepted into an REU program!
 Elijah will spend the summer at Washington State University where he will be working with Dr. Arron H. Carter's lab as part of the [USDA/NIFA FACT: Research Experience for Undergraduates on Phenomics Big Data Management](https://labs.wsu.edu/sankaran-phenomics/undergrad-research-exp/) program.
+
+#### 3/16/22: We welcome Krishen to the lab!
+<img src="/images/people/Krishen.jpg" width="100" Hspace="30" align="right"> Krishen is a third year undergraduate student studying Plant Biology, Biochemistry, Human Biology, and Genetics. We're so happy to have you here with us!
 
 #### 2/21/22: Serena interviewed about her research for the Sci-Files podcast
 <img src="/images/news/2022_scifiles.jpeg" width="100" Hspace="30" align="right"> Sci-Files is a science communication podcast produced by MSU's SciComm club, where graduate students are interviewed about their research. Serena was interviewed about her work on knowledge graphs for the February 20th episode, which is [published here as a podcast](https://impact89fm.org/109142/podcasts/the-sci-files-02-20-2022-serena-lotreck-automated-hypothesis-generation-for-the-plant-sciences/).
@@ -55,7 +67,6 @@ For the past school year 2020-2021 the lab has been working remotely. Today was 
 #### 6/2/21: Kenia is awarded NRT-IMPACTS and PBHS fellowships
 
 Congratulations to Kenia for receiving an NRT-IMPACTS fellowship, a training program for doctoral students to apply computational approaches to address challenges in plant biology. Kenia also received the PBHS fellowship, which is an NIH funded T32 training program for predoctoral students to pursue research related to plant biotechnology and chemical engineering.
-
 
 #### 6/1/21: Peipei's study on metabolic pathway membership prediction is published 
 
