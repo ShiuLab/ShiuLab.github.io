@@ -7,6 +7,12 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
+#### 10/5/22: 2 new members join the lab! Welcome, Edmond and Mae!
+Edmond Anderson rotated in the lab for 1 month and he has decided to join us for the remainder of his masters program. He is studying data science. Mae Milton is a third year undergraduate student. We're happy to have you both!
+
+#### 8/31/22: Ally becomes a PhD candidate!
+Congratulations, Ally! Ally's presentation was on predicting co-functional gene pairs in Arabidopsis and yeast. 
+
 #### 8/8/22: Welcome to the lab Isaia!
 Isaia is an exchange graduate student from the Heinrich-Heine University of Düsseldorf in Düsseldorf, Germany. We are very excited to have him here with us. Welcome to MSU!
 
