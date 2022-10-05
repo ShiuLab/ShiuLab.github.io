@@ -12,6 +12,11 @@ header:
 <table style="width:100%">
   <col width="50px" />
   <tr>
+    <td><img src="../images/people_past/peipei.jpg"  width="40px"></td>
+    <td>Peipei Wang Tsai (2016-22)</td>
+    <td>Associate Professor,Kunpeng Institute of Modern Agriculture at Foshan</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/50px-Zing.jpg"  width="40px"></td>
     <td>Zing Tsung-Yeh Tsai (2014-16)</td>
     <td>Bioinformatics scientist, Illumina Inc.</td>
@@ -41,6 +46,16 @@ header:
 ## Graduate Students & Associates
 <table style="width:100%">
   <col width="50px" />
+  <tr>
+    <td><img src="../images/people_past/Ally.png" width="40px"> </td>
+    <td>Ally Schumacher (2020-22) Associate</td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/Serena.png" width="40px"> </td>
+    <td>Serena Lotreck (2019-22) Associate</td>
+    <td> - </td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/fanrui.jpg" width="40px"> </td>
     <td>Fanrui Meng (2017-20) Associate</td>

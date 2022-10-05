@@ -14,11 +14,16 @@ permalink: "/people_current/"
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
-  <li><img src="Serena.png" alt='photo of serena'><p>Serena Lotreck<br>Plant Biology/CMSE</p></li>
-  <li><img src="Ally.png" alt='photo of Ally'><p> Ally Schumacher<br>Plant Biology</p></li>
   <li><img src="Kenya.png" alt='photo of Kenia'><p> Kenia Segura Abá<br>Genetics & Genome Sciences</p></li>
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
   <li><img src="Huan.png" alt='photo of Huan'><p>Huan Chen<br>Genetics & Genome Sciences</p></li>
+  <li><img src="Elinor.jpg" alt='photo of Elinor'><p>Eleanor Siler<br>Data analyst</p></li>
+  <li><img src="Issaia.jpg" alt='photo of Issaia'><p>Isaia Vardanega<br>Visiting Scholer from Heinrich Heine University Düsseldorf</p></li>
+  <li><img src="Edmund.jpg" alt='photo of Edmund'><p>Edmond Anderson
+ <br>Data Science, Masters</p></li>
+ <li><img src="Edmund.jpg" alt='photo of Edmund'><p>Edmond Anderson
+<br>Data Science, Masters</p></li>
+
 </ul>
 
 <H3>Undergraduate Students</H3>
