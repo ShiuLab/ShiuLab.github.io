@@ -48,12 +48,12 @@ header:
   <col width="50px" />
   <tr>
     <td><img src="../images/people_past/Ally.png" width="40px"> </td>
-    <td>Ally Schumacher (2020-22) Associate</td>
+    <td>Ally Schumacher (2020-22)</td>
     <td> - </td>
   </tr>
   <tr>
     <td><img src="../images/people_past/Serena.png" width="40px"> </td>
-    <td>Serena Lotreck (2019-22) Associate</td>
+    <td>Serena Lotreck (2019-22)</td>
     <td> - </td>
   </tr>
   <tr>
