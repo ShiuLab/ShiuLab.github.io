@@ -13,11 +13,13 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-Noble JA, Liu MCJ, DeFalco TA, Stegmann M, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Beilstein MA, Cheung AY, Palanivelu, R. Conserved Molecular Function and Regulatory Subfunctionalization of the LORELEI Gene Family in Brassicaceae. *[bioRxiv](https://www.biorxiv.org/content/10.1101/2020.04.27.062893v1)*
-
-**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. *[bioRxiv](https://doi.org/10.1101/2022.08.01.502344)*
+All are published or in prep. at the moment!
 
 ## 2022
+
+Noble JA, Bielski NV, Liu MJ, DeFalco TA, Stegmann M, Nelson ADL, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Cheung AY, Beilstein MA, Palanivelu R. Evolutionary analysis of the LORELEI gene family in plants reveals regulatory subfunctionalization. _Plant Physiol_ (online ahead of print) [pubmed]([PMID: 36156105 ](https://pubmed.ncbi.nlm.nih.gov/36156105/)
+
+**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. _Frontier in Plant Sci_ (in press) *[bioRxiv](https://doi.org/10.1101/2022.08.01.502344)*
 
 Lucker BF, Temple JA, **Panchy NL**, Benning UF, BibikaPeter JD, Neofotis PG, Weissman JC, Baxter IR, __Shiu SH__, Kramer DM. Selection-enriched genomic loci (SEGL) reveals genetic loci for environmental adaptation and photosynthetic productivity in Chlamydomonas reinhardtii. *Algal Res* 64:102709 [doi](https://doi.org/10.1016/j.algal.2022.102709)
 
