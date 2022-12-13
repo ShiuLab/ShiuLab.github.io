@@ -46,6 +46,7 @@ permalink: "/people_current/"
   <li><img src="Kitty.png" alt='photo of kitty'><p>Wiggler</p></li>
   <li><img src="Nyx.jpg" alt='photo of Nyx'><p>Nyx</p></li>
   <li><img src="Angel.jpg" alt='photo of Angel'><p>Angel</p></li>
+  <li><img src="Link.jpg" alt='photo of Link'><p>Link</p></li>
   <li><img src="Candy.png" alt='photo of Candy'><p>The Jar</p></li>
 </ul>
 </body>
