@@ -313,6 +313,11 @@ header:
 ## Visiting scholars
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/Issaia.jpg" width="40px"></td>
+    <td>Isaia Vardanega (2022)</td>
+    <td>Graduate student, Heinrich Heine University Düsseldorf, Germany</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/petricia.png" width="40px"></td>
     <td>Patricia Blum (2020)</td>
     <td>Undergraduate student, Heinrich Heine University, Duesseldorf, Germany</td>
