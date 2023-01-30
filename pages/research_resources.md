@@ -16,6 +16,7 @@ header:
 #### Tuesdays
 - [MMG Seminar](https://mmg.natsci.msu.edu/events-seminars/mmg-seminars-fall-2022/) at 3:10 PM in BPS 1415
 - [Pharmacology & Toxicology/IIT Seminar](https://iit.msu.edu/training/eits/recent-seminar-list.html) time and place vary
+- [Statistics & Probability Colloquium](https://stt.natsci.msu.edu/events/upcoming-events/) from 10:20-11:10 AM in C405 Wells Hall
 
 #### Wednesdays                                                                                
 - [CMB Research Forum](https://cmb.natsci.msu.edu/current-students/research-forum-schedule/) at 12:00 PM in BPS 1425
