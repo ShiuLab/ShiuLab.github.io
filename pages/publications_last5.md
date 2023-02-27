@@ -15,16 +15,21 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 All are published or in prep. at the moment!
 
+## 2023
+
+Cuddington K, Abbott KC, Adler FR, Aydeniz M, Dale R, Gross LJ, Hastings A, Hobson EA, Karatayev V, Killion A, Madamanchi A, Marrraffini ML, McCombs A, Samyono W, __Shiu SH__, Watanabe KH, White ER. Challenges and opportunities to build quantitative self-confidence in biologists. _Bioscience_ (in press)
+
 ## 2022
 
-Noble JA, Bielski NV, Liu MJ, DeFalco TA, Stegmann M, Nelson ADL, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Cheung AY, Beilstein MA, Palanivelu R. Evolutionary analysis of the LORELEI gene family in plants reveals regulatory subfunctionalization. _Plant Physiol_ (online ahead of print) [pubmed](https://pubmed.ncbi.nlm.nih.gov/36156105/)
+Noble JA, Bielski NV, Liu MJ, DeFalco TA, Stegmann M, Nelson ADL, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Cheung AY, Beilstein MA, Palanivelu R. Evolutionary analysis of the LORELEI gene family in plants reveals regulatory subfunctionalization. _Plant Physiol_ 190(4):2539 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36156105/)
 
-**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. _Frontier in Plant Sci_ [doi](https://doi.org/10.3389/fpls.2022.998400)
+**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. _Frontier in Plant Sci_ 13:998400 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36001691/)
+
+Liu WY, Yu CP, Chang CK, Chen HJ, Li MY, Chen YH, __Shiu SH__, Ku MSB, Tu SL, Lu MJ, Li WH. Regulators of early maize leaf development inferred from transcriptomes of laser capture microdissection (LCM)-isolated embryonic leaf cells. *Proc. Natl. Acad. Sci. USA* 119(35):e2208795119 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36001691/)
 
 Lucker BF, Temple JA, **Panchy NL**, Benning UF, BibikaPeter JD, Neofotis PG, Weissman JC, Baxter IR, __Shiu SH__, Kramer DM. Selection-enriched genomic loci (SEGL) reveals genetic loci for environmental adaptation and photosynthetic productivity in Chlamydomonas reinhardtii. *Algal Res* 64:102709 [doi](https://doi.org/10.1016/j.algal.2022.102709)
 
-van Dijk ADJ, **Shiu SH**, de Ridder D. Editorial: Artificial Intelligence and Machine Learning Applications in Plant Genomics and Genetics.
- *Front Artif Intell.* 5:959470 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35832206/)
+van Dijk ADJ, **Shiu SH**, de Ridder D. Editorial: Artificial Intelligence and Machine Learning Applications in Plant Genomics and Genetics. *Front Artif Intell.* 5:959470 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35832206/)
 
 **Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* 234:1521–1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
@@ -79,16 +84,6 @@ Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory el
 Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2019) A comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes. *Proc. Natl. Acad. Sci., USA* 116(8):3091-3099 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30718437)
 
 **Moore BM**, **Wang P**, Fan P, Leong B, Schenck C, **Lloyd J**, **Lehti-Shiu MD**, Last R, Pichersky E, **Shiu SH** (2019) Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci., USA* 116(6):2344-2353 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30674669)
-
-## 2018
-
-**Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol. Evol.* 10(10):2596–2613 [pubmed](https://pubmed.ncbi.nlm.nih.gov/30239695/)
-
-**Liu MJ**, Sugimoto K, **Uygun, S**, **Panchy NL**, Campbell M, Yandell M, Howe GA, **Shiu SH** (2018) Regulatory Divergence In Wound-Responsive Gene Expression In Domesticated And Wild Tomato. *Plant Cell* 30(7):1445-1460 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
-
-**Lloyd JP, Tsai ZTY, Sowers RP<font color="red"><sup>u</sup></font>, Panchy NL, Shiu SH** (2018) A model-based approach for identifying functional intergenic transcribed regions and non-coding RNAs. *Mol. Biol. Evol.* 35(6):1422-1436 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29554332)
-
-Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234)
 
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
