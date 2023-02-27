@@ -11,6 +11,16 @@ permalink: "/publications_older/"
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
+## 2018
+
+**Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol. Evol.* 10(10):2596–2613 [pubmed](https://pubmed.ncbi.nlm.nih.gov/30239695/)
+
+**Liu MJ**, Sugimoto K, **Uygun, S**, **Panchy NL**, Campbell M, Yandell M, Howe GA, **Shiu SH** (2018) Regulatory Divergence In Wound-Responsive Gene Expression In Domesticated And Wild Tomato. *Plant Cell* 30(7):1445-1460 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29743197)
+
+**Lloyd JP, Tsai ZTY, Sowers RP<font color="red"><sup>u</sup></font>, Panchy NL, Shiu SH** (2018) A model-based approach for identifying functional intergenic transcribed regions and non-coding RNAs. *Mol. Biol. Evol.* 35(6):1422-1436 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29554332)
+
+Tsai CH, **Uygun S**, Roston R, **Shiu SH**, Benning C (2018) Recovery from N Deprivation Is a Transcriptionally and Functionally Distinct State in Chlamydomonas. *Plant Physiol.* 176(3):2007-2023 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29288234)
+
 ## 2017
 
 Huang CF, Yu CP, Wu YH, Lu MJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2017) Elevated auxin biosynthesis and transport underlie high vein density in C4 leaves. *Proc. Natl. Acad. Sci., USA* 114(33):E6884 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28761000)
