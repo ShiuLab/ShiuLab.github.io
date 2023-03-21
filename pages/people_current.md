@@ -18,9 +18,6 @@ permalink: "/people_current/"
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
   <li><img src="Huan.png" alt='photo of Huan'><p>Huan Chen<br>Genetics & Genome Sciences</p></li>
   <li><img src="Elinor.jpg" alt='photo of Elinor'><p>Eleanor Siler<br>Data analyst</p></li>
- <li><img src="Edmund.jpg" alt='photo of Edmund'><p>Edmond Anderson
-<br>Data Science, Masters</p></li>
-
 </ul>
 
 <H3>Undergraduate Students</H3>
@@ -28,7 +25,6 @@ permalink: "/people_current/"
   <li><img src="Elijah.jpg" alt='photo of Elijah'><p>Elijah Persson-Gordon<br>Plant Biology</p></li>
   <li><img src="Krishen.jpg" alt='photo of Krishen'><p>Krishen Patel<br>Plant Biology</p></li>
   <li><img src="Christina.jpg" alt='photo of Christina'><p>Christina King<br>Plant Biology</p></li>
-  <li><img src="Ning.jpg" alt='photo of Ning'><p>Ninh Vu<br>Department of Physics and Astronomy</p></li>
   <li><img src="Anonimus.jpg" alt='photo of Mae'><p>Mae Milton<br>Plant Biology</p></li>
 </ul>
 
@@ -36,6 +32,8 @@ permalink: "/people_current/"
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="Paulo.jpg" alt='photo of Paulo'><p>Paulo Izquierdo<br>Postdoctoral scholar</p></li>
+  <li><img src="Anonimus.jpg" alt='photo of Rajneesh'><p>Rajneesh Singhal<br>Postdoctoral scholar</p></li>
   <li><img src="jyothi.jpg" alt='photo of Jyothi'><p>Jyothi Kumar<br>Research Asst I</p></li>
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
   <li><img src="shinhan.png" alt='photo of shinhan'><p><a href="https://cmse.msu.edu/directory/faculty/shinhan-shiu/">Shin-Han Shiu</a><br>Professor</p></li>
