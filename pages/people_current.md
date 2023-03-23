@@ -33,7 +33,7 @@ permalink: "/people_current/"
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="Paulo.jpg" alt='photo of Paulo'><p>Paulo Izquierdo<br>Postdoctoral scholar</p></li>
-  <li><img src="Anonimus.jpg" alt='photo of Rajneesh'><p>Rajneesh Singhal<br>Postdoctoral scholar</p></li>
+  <li><img src="Rajneesh.jpg" alt='photo of Rajneesh'><p>Rajneesh Singhal<br>Postdoctoral scholar</p></li>
   <li><img src="jyothi.jpg" alt='photo of Jyothi'><p>Jyothi Kumar<br>Research Asst I</p></li>
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
   <li><img src="shinhan.png" alt='photo of shinhan'><p><a href="https://cmse.msu.edu/directory/faculty/shinhan-shiu/">Shin-Han Shiu</a><br>Professor</p></li>
