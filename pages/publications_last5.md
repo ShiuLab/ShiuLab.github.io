@@ -17,7 +17,7 @@ All are published or in prep. at the moment!
 
 ## 2023
 
-US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group leader)
+US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group)
 
 Cuddington K, Abbott KC, Adler FR, Aydeniz M, Dale R, Gross LJ, Hastings A, Hobson EA, Karatayev V, Killion A, Madamanchi A, Marrraffini ML, McCombs A, Samyono W, __Shiu SH__, Watanabe KH, White ER. Challenges and opportunities to build quantitative self-confidence in biologists. _Bioscience_ 73:364 [doi](https://doi.org/10.1093/biosci/biad015)
 
