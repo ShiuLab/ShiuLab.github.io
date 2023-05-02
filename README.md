@@ -1,5 +1,5 @@
 # ShiuLab.github.io
-Shiu Lab Webiste
+Shiu Lab Website
 
 ## General Info
 
