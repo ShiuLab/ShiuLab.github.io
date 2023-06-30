@@ -116,6 +116,11 @@ header:
 ## Undergrads (MSU)
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/Elijah.jpg" width="40px"> </td>
+    <td>Elijah Persson-Gordon (2021-23)</td>
+    <td>Plant Biology</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/abigal.png" width="40px"> </td>
     <td>Abigail Seeger (2019-21)</td>
     <td>Plant Biology and Statistics</td>
