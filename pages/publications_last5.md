@@ -17,9 +17,11 @@ All are published or in prep. at the moment!
 
 ## 2023
 
-US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group leader)
+Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [doi](https://www.pnas.org/doi/10.1073/pnas.2219469120)
 
-Cuddington K, Abbott KC, Adler FR, Aydeniz M, Dale R, Gross LJ, Hastings A, Hobson EA, Karatayev V, Killion A, Madamanchi A, Marrraffini ML, McCombs A, Samyono W, __Shiu SH__, Watanabe KH, White ER. Challenges and opportunities to build quantitative self-confidence in biologists. _Bioscience_ (in press)
+US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group)
+
+Cuddington K, Abbott KC, Adler FR, Aydeniz M, Dale R, Gross LJ, Hastings A, Hobson EA, Karatayev V, Killion A, Madamanchi A, Marrraffini ML, McCombs A, Samyono W, __Shiu SH__, Watanabe KH, White ER. Challenges and opportunities to build quantitative self-confidence in biologists. _Bioscience_ 73:364 [doi](https://doi.org/10.1093/biosci/biad015)
 
 ## 2022
 

@@ -7,6 +7,15 @@ header:
     image_fullwidth: "header_mps.png"
 ---
 
+#### 3/15/23: Welcome, Paulo!
+Dr. Paulo Izquierdo has joined the lab as a Great Lakes Bioenergy Research Center postdoctoral research associate, having recently completed his PhD in Plant Breeding, Genetics, and Biotechnology here at Michigan State. During his PhD, he worked on implementing genomic prediction methods for research on dry beans to increase the genetic gain per unit of time in traits such as yield, mineral concentration, and end-use quality traits. His research focus now is on plant computational sciences and genomic prediction in switchgrass. We are glad to have you!
+
+#### 2/1/23: Welcome, Rajneesh!
+Welcome Dr. Rajneesh Singhal who has decided to join the lab as a postdoctoral research associate.
+
+#### 10/10/22: Thilanka's study on switchgrass transcriptional cold-response is published in Frontiers in Plant Science! Congratulations!
+In collaboration with several members in the lab (Brianna, Peipei, and Shinhan), they investigated the [Temporal regulation of of cold transcriptional response in switchgrass](https://doi.org/10.3389/fpls.2022.998400). Switchgrass low-land ecotypes have significantly more biomass but lower cold tolerance than up-land ecotypes. Therefore, understanding the molecular mechanisms underlying cold response in up-land ecotypes can contribute to improving cold tolerance of high-yielding low-land ecotypes under chilling and freezing environmental conditions. They dissect the cis-regulatory basis of switchgrass cold stress transcriptional response using machine learning methods. 
+
 #### 10/5/22: 2 new members join the lab! Welcome, Edmond and Mae!
 Edmond Anderson rotated in the lab for 1 month and he has decided to join us for the remainder of his masters program. He is studying data science. Mae Milton is a third year undergraduate student. We're happy to have you both!
 
@@ -182,7 +191,18 @@ Can transcriptome data be used to predict traits? In the study titled [__Transcr
 
 #### 10/25/19: Beth defended her PhD
 
-<img src="/images/news/191025_beth-before-defense.png" width="100" Hspace="30" align="right">Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a postdoctoral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best! The picture on the right shows Beth right before her defense.
+<img src="/images/news/191025_beth-before-defense.png" width="100" Hspace="30" align="right">Beth defended her PhD thesis today titled _Specilized metabolism and stress response: studies in predicting gene function and regulation_. The seminar was held in Plant Biology Lab 247 and was attended by both her colleagues, friends, and families. Beth is moving to University of Wisconsin-Madison to take a 
+
+
+
+
+
+
+
+
+
+
+toral position applying molecular evolutionary and computaional approaches to plant biochemistry. We wish her all the best! The picture on the right shows Beth right before her defense.
 
 #### 10/20/19: Ronan is here!
 

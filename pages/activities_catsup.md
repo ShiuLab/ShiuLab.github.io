@@ -7,6 +7,48 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup/"
 ---
+### 3/31/2023: How Nancy Hopkins and her tape measure revealed the extent of sexism in science
+Sexism in academia can take nondescript forms, such as the amount of lab space a female presenting scientist may have in comparison to a male presenting scientist, as [Nancy Hopkins discovered at MIT](https://www.nature.com/articles/d41586-023-00887-4). This week we talked about the realities of women in academia and science, as well as the barriers that different groups face when pursuing a career in science.
+
+### 3/10/2023: ChatGPT passing USMLE shines a spotlight on the flaws of medical education & How To Make Sure You Don’t Lose Your Job To Artificial Intelligence!
+It is a double feature this week as ChatGTP takes center stage. Recently ChatGTP has [passed important exams](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205) for specialized professions. The future of education and how to adapt to a world post ChatGPT was discussed. We also addressed what we have already done and can continue to do to ensure our future job stability beyond what the [second article](https://becominghuman.ai/how-to-make-sure-you-dont-lose-your-job-to-artificial-intelligence-fb45b49b57ba) of the week mentioned.
+
+### 3/3/2023: Transparent AI Challenges and Its Solutions | Ultimate Guide
+The future of AI and science continues to be a theme this semester as we discuss the definition of [transparent AI](https://www.xenonstack.com/insights/transparent-ai-challenges). We even talked about how some articles like the one we read may one day be written by AI.
+
+### 2/24/2023: The Great Automatic Grammatizator by Roald Dahl (1954)
+ChatGTP's recent public release has caused people to question the future of writing. Roald Dahl addressed a very similar issue in 1954 when he released a [short story](https://d-a-v-e.org/wp/wp-content/uploads/2020/09/The_Great_Automatic_Grammatizator.pdf). This meeting was an opportunity to reflect on the future of AI, how research will change, and the importance of preventing the spread of misinformation.
+
+### 2/9/2023: "Respect them," says He Jiankui, creator of world’s first gene-edited humans
+This week's [article](https://thedailynewnation.com/news/347555/%E2%80%98Respect-them,-%E2%80%98says-He-Jiankui,-creator-of-world%E2%80%99s-first-gene-edited-humans) addresses a controvery from 2018 involving gene edited humans. We discussed the experiment's ethics, how researchers who cross ethical lines should be reprimanded, and how this might apply to us as a plant biology lab.
+
+### 1/27/2023: Scientists rise up against statistical significance
+A strong understanding of statistical significance is essential if a scientist is to interpret statistical significance, but this week's [article](https://www.nature.com/articles/d41586-019-00857-9) discusses how statistical significance may be misunderstood. We discussed different types of measurements that could be used to analyze and explain results, but found p-values are very useful if used correctly.
+
+### 12/09/2022: 11 Characteristics of Self-Actualized People
+Self-Actualization is achieved when a person has realized their full potential according to this week's [article](https://www.verywellmind.com/characteristics-of-self-actualized-people-2795963). We focused on how self-actualization may look different to various people and how we define self-actualization for ourselves.
+
+### 12/02/2022: Meet this super-spotter of duplicated images in science papers
+Recent discussions of data alteration and fabrication brought this week's [article](https://www.nature.com/articles/d41586-020-01363-z) to the forefront. We talked about the reasons data is altered and fabricated as well as how to be vigilant, such as by referencing papers that have undergone extensive peer review. 
+
+### 11/11/2022: Could AI help you to write your next paper?
+[The rise of ChatGTP and other similar technology](https://www.nature.com/articles/d41586-022-03479-w?utm_source=Nature+Briefing&utm_campaign=1fafbeb9d8-briefing-dy-20221104&utm_medium=email&utm_term=0_c9dfd39373-1fafbeb9d8-45787342), the future landscape of scientific research is changing. This week, our lab discussed the ethics of using these new technologies, authorship when utilizing ChatGTP, and the future of LLMs.
+
+### 10/14/2022: Balance is needed when discussing academic careers
+[Academia can be rewarding and difficult](https://www.nature.com/articles/d41586-022-03216-3), but so are positions outside of academia. This week we focused on how to create work-life balance in an academic space, if it is possible, and how to fairly critique work-life balance in academia.
+
+### 9/23/2022: Climate Change Worsens Most Infectious Diseases
+The discussion for this week revolved around how [climate change facilitates transmission of infectious diseases](https://www.the-scientist.com/news-opinion/climate-change-worsens-most-infectious-diseases-70336). We further talked about the implications of infectious diseases worsening and how this may be applied to plants.
+
+### 9/9/2022: Why Did Ferns Persist When All Other Plants Perished?
+This [article](https://www.the-scientist.com/notebook/why-did-ferns-persist-when-all-other-plants-perished-70325) discusses how different researchers have approached researching why specific plants, such as ferns, have survived ancient extreme environmental events and why that research is difficult, but important. We discussed the many variables that make biology data challenging to explain as well as the benefits to this difficult research.
+
+### 8/19/2022: Best Bugs: How *E. coli* Evolves into a Stinkbug Symbiont
+A [study](https://www.the-scientist.com/news-opinion/best-bugs-how-e-coli-evolves-into-a-stinkbug-symbiont-70368) found that *E. coli* can mutate to become beneficial over many generations in stinkbugs, working as a symbiont. We discussed the study setup and what makes this a compelling experiment.
+
+### 6/3/2022: A Major Science Journal Publisher Adds A Weird Notice to Every Paper. What's Behind This? 
+Today we discussed publishing practices and the movement of [publishers](https://www.forbes.com/sites/stevensalzberg/2022/05/30/a-major-science-journal-publisher-adds-a-weird-notice-to-every-paper-whats-behind-this/amp/) to remain neutral in global conflicts. We further discussed publishing at large and how to choose a journal to submit a paper to.
+
 ### 5/6/2022: Can Alondra Nelson Remake the Government's Approach to Science and Tech? 
 Alondra Nelson, a sociologist, is the new director of the White House's Office of Science and Technology Policy. Our meeting today was based off an [article](https://www.politico.com/news/magazine/2022/04/28/alondra-nelson-profile-ostp-eric-lander-resignation-00027604) about her and her new position where she may be able to enact change in the executive branch's relationship with science. Using her as a model, we postulated how we, as scientists and scientists-in-training, can address our research to those who may not interface with our research questions very often or use different jargon. We talked about the changes in science and ethical implications of inappropriate behavior in the workplace and how we can mitigate those effects through positive treatment of those we work with. Our lab hopes to increase outreach toward different groups in order to educate others in what we research and why.
 
@@ -28,5 +70,5 @@ In the Shiu lab, we have both experienced and novice coders, but we know that ev
 ### 1/28/2022 Logical Fallacies
 Logical fallacies are an issue that scientists need to look out for, as we discussed this week during CATSUP, using the article [Logical Fallacies](https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html) from Purdue University's Online Writing Lab. As scientists-in-training, the graduate and undergraduate students in our lab work to avoid illegitimate arguments and faulty reasoning. Those in the lab with doctorates also recognized that throughout our careers, we will always need to consciously look for fallacies in our own and others arguments to ensure rigorous scientific research. Many of the fallacies are tied to oversimplifying an argument, which we worry will happen when we attempt to make our arguments as clear and concise as possible. We need to balance the nuances of our research with making our inherently multi-disciplinary research accessible to all groups who may look to access it.
 
-#### 1/13/2022 How scientists fool themselves – and how they can stop
+### 1/13/2022 How scientists fool themselves – and how they can stop
 In CATSUP this week we discussed the article [How scientists fool themselves – and how they can stop](https://www.nature.com/articles/526182a) by Regina Nuzzo and how our lab can best combat our own cognitive biases to conduct more robust and ethical science. We addressed "The Texas sharpshooter" cognitive trap, where someone produces multiple results and finds a pattern that may not be accurate. Sometimes a person has a tendency to pick the data that most agrees with their hypothesis or is interesting. A part of the article we thought would be a good way to combat this issue is by having "rivals". In our lab try to create a collaborative environment where we work together to address problems that are related to multiple areas of our research. However, this collaborative environment includes questioning the reasoning of our collaborators and respectively creating counterpoints to address holes in our research results and methods.
