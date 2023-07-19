@@ -24,7 +24,6 @@ permalink: "/people_current/"
 
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="Krishen.jpg" alt='photo of Krishen'><p>Krishen Patel<br>Plant Biology</p></li>
   <li><img src="Christina.jpg" alt='photo of Christina'><p>Christina King<br>Plant Biology</p></li>
   <li><img src="Anonimus.jpg" alt='photo of Mae'><p>Mae Milton<br>Plant Biology</p></li>
 </ul>
