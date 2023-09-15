@@ -313,6 +313,11 @@ header:
 ## Visiting scholars
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/Dibin.jpg" width="40px"></td>
+    <td>Dibin Baby (2023)</td>
+    <td>Graduate student, Heinrich Heine University Düsseldorf, Germany</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/Issaia.jpg" width="40px"></td>
     <td>Isaia Vardanega (2022)</td>
     <td>Graduate student, Heinrich Heine University Düsseldorf, Germany</td>

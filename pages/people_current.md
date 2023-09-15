@@ -19,14 +19,19 @@ permalink: "/people_current/"
   <li><img src="Huan.png" alt='photo of Huan'><p>Huan Chen<br>Genetics & Genome Sciences</p></li>
   <li><img src="Elinor.jpg" alt='photo of Elinor'><p>Eleanor Siler<br>Data analyst</p></li>
   <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Computational Mathematics, Science and Engineering</p></li>
-  <li><img src="Dibin.jpg" alt='photo of Dibin'><p>Dibin Baby<br>Visiting scholer from Heinrich Heine University, Germany</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="Christina.jpg" alt='photo of Christina'><p>Christina King<br>Plant Biology</p></li>
   <li><img src="Anonimus.jpg" alt='photo of Mae'><p>Mae Milton<br>Plant Biology</p></li>
+  <li><img src="Skylar.jpg" alt='photo of Skylar'><p>Skylar Fusco<br>Human Biology</p></li>
 </ul>
+
+<H3>Highschool Students</H3>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="Theres.jpg" alt='photo of Theres'><p>Therese Hourani<br>Lansing Catholic High School</p></li>
+ </ul>
 
 <H3>Those with PhDs</H3>
 <html>
