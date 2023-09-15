@@ -27,7 +27,7 @@ Cuddington K, Abbott KC, Adler FR, Aydeniz M, Dale R, Gross LJ, Hastings A, Hobs
 
 Noble JA, Bielski NV, Liu MJ, DeFalco TA, Stegmann M, Nelson ADL, McNamara K, Sullivan B, Dinh KK, Khuu N, Hancock S, __Shiu SH__, Zipfel C, Cheung AY, Beilstein MA, Palanivelu R. Evolutionary analysis of the LORELEI gene family in plants reveals regulatory subfunctionalization. _Plant Physiol_ 190(4):2539 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36156105/)
 
-**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. _Frontier in Plant Sci_ 13:998400 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36001691/)
+**Ranaweera T, Brown BNI, Wang P<font color="green"><sup>e</sup></font>, Shiu SH<font color="green"><sup>e</sup></font>**. Temporal Regulation of Cold Transcriptional Response in Switchgrass. _Frontier in Plant Sci_ 13:998400 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36299783/)
 
 Liu WY, Yu CP, Chang CK, Chen HJ, Li MY, Chen YH, __Shiu SH__, Ku MSB, Tu SL, Lu MJ, Li WH. Regulators of early maize leaf development inferred from transcriptomes of laser capture microdissection (LCM)-isolated embryonic leaf cells. *Proc. Natl. Acad. Sci. USA* 119(35):e2208795119 [pubmed](https://pubmed.ncbi.nlm.nih.gov/36001691/)
 
