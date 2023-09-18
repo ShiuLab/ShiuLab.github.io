@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup/"
 ---
+### 9/15/2023: The Difference between Productivity and Performance
+The lab talked about optimizing productivity and how, when marketing yourself, the focus is often on previous performance. The discussion covered what this meant for future job opportunities and how to show productivity as a graduate student does not always lead to high performance-based measures due to setbacks in research.
+
 ### 3/31/2023: How Nancy Hopkins and her tape measure revealed the extent of sexism in science
 Sexism in academia can take nondescript forms, such as the amount of lab space a female presenting scientist may have in comparison to a male presenting scientist, as [Nancy Hopkins discovered at MIT](https://www.nature.com/articles/d41586-023-00887-4). This week we talked about the realities of women in academia and science, as well as the barriers that different groups face when pursuing a career in science.
 
