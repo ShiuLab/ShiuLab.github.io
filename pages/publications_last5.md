@@ -17,7 +17,7 @@ All are published or in prep. at the moment!
 
 ## 2023
 
-Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [doi](https://www.pnas.org/doi/10.1073/pnas.2219469120)
+Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [pubmed]([https://www.pnas.org/doi/10.1073/pnas.2219469120](https://pubmed.ncbi.nlm.nih.gov/37126718/))
 
 US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group)
 
