@@ -13,7 +13,7 @@ __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding
 
 ## Pre-prints
 
-All are published or in prep. at the moment!
+Shiu SH, Lehti-Shiu MD. Evolution of research topics and paradigms in plant sciences. _bioRxiv_ [doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
 
 ## 2023
 
