@@ -27,6 +27,7 @@ permalink: "/people_current/"
   <li><img src="Christina.jpg" alt='photo of Christina'><p>Christina King<br>Plant Biology</p></li>
   <li><img src="Anonimus.jpg" alt='photo of Mae'><p>Mae Milton<br>Plant Biology</p></li>
   <li><img src="Skylar.jpg" alt='photo of Skylar'><p>Skylar Fusco<br>Human Biology</p></li>
+  <li><img src="Colton.jpg" alt='photo of Colton'><p>Colton Boguszewski<br>Human Biology</p></li>
 </ul>
 
 <H3>Highschool Students</H3>
