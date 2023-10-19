@@ -43,4 +43,4 @@ Applicants should provide the following information in one file and send it to s
 
 
 <a href="/files/2023_PLB_HOURS_WORKED.pdf">Timesheet</a>
-</br><a href="/files/guidelines_for_hourly_workers.docx">Guidelines for Hourly Workers</a>
+<br><a href="/files/guidelines_for_hourly_workers.docx">Guidelines for Hourly Workers</a>
