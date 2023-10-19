@@ -42,5 +42,5 @@ Applicants should provide the following information in one file and send it to s
 2. The names, affiliations, e-mail addresses, and phone numbers of 1-2 professional references (preferably faculty/staff at MSU).
 
 
-<a href="/files/2023_PLB_HOURS_WORKED.pdf">Timesheet</a></br>
-<a href="/files/guidelines_for_hourly_workers.docx">Guidelines for Hourly Workers</a>
+<a href="/files/2023_PLB_HOURS_WORKED.pdf">Timesheet</a>
+</br><a href="/files/guidelines_for_hourly_workers.docx">Guidelines for Hourly Workers</a>
