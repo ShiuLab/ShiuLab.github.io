@@ -18,15 +18,22 @@ permalink: "/people_current/"
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
   <li><img src="Huan.png" alt='photo of Huan'><p>Huan Chen<br>Genetics & Genome Sciences</p></li>
   <li><img src="Elinor.jpg" alt='photo of Elinor'><p>Eleanor Siler<br>Data analyst</p></li>
+  <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Computational Mathematics, Science and Engineering</p></li>
+  <li><img src="Edmund.jpg" alt='photo of Edmond'><p>Edmond Anderson<br>Computational Mathematics, Science and Engineering</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="Elijah.jpg" alt='photo of Elijah'><p>Elijah Persson-Gordon<br>Plant Biology</p></li>
-  <li><img src="Krishen.jpg" alt='photo of Krishen'><p>Krishen Patel<br>Plant Biology</p></li>
   <li><img src="Christina.jpg" alt='photo of Christina'><p>Christina King<br>Plant Biology</p></li>
   <li><img src="Anonimus.jpg" alt='photo of Mae'><p>Mae Milton<br>Plant Biology</p></li>
+  <li><img src="Skylar.jpg" alt='photo of Skylar'><p>Skylar Fusco<br>Human Biology</p></li>
+  <li><img src="Colton.png" alt='photo of Colton'><p>Colton Boguszewski<br>Human Biology</p></li>
 </ul>
+
+<H3>Highschool Students</H3>
+<ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="Theres.jpg" alt='photo of Theres'><p>Therese Hourani<br>Lansing Catholic High School</p></li>
+ </ul>
 
 <H3>Those with PhDs</H3>
 <html>
@@ -45,6 +52,8 @@ permalink: "/people_current/"
   <li><img src="Nyx.jpg" alt='photo of Nyx'><p>Nyx</p></li>
   <li><img src="Angel.jpg" alt='photo of Angel'><p>Angel</p></li>
   <li><img src="Link.jpg" alt='photo of Link'><p>Link</p></li>
+  <li><img src="Jasmine.jpg" alt='photo of Jasmine'><p>Jasmine</p></li>
+  <li><img src="Melody.jpg" alt='photo of Melody'><p>Melody</p></li>
   <li><img src="Candy.png" alt='photo of Candy'><p>The Jar</p></li>
 </ul>
 </body>
