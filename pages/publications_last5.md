@@ -9,7 +9,7 @@ permalink: "/publications_last5/"
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/) or see our [Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en) page
 
-__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members.
+__Notation__: <code style="color :green">e: joint first/corresponding</code>, <code style="color :red">u:undergrad</code>, <code style="color :blue">h: high school student</code>, __Bold__: lab members.
 
 ## Pre-prints
 
@@ -17,7 +17,7 @@ Shiu SH, Lehti-Shiu MD. Evolution of research topics and paradigms in plant scie
 
 ## 2023
 
-Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<font color="red"><sup>u</sup></font>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ (in press)
+Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<code style="color :red"><sup>u</sup></code>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ (in press)
 
 Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 2023:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
