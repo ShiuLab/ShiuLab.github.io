@@ -17,6 +17,10 @@ Shiu SH, Lehti-Shiu MD. Evolution of research topics and paradigms in plant scie
 
 ## 2023
 
+Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<font color="red"><sup>u</sup></font>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ (in press)
+
+Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 2023:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
+
 Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [pubmed]([https://www.pnas.org/doi/10.1073/pnas.2219469120](https://pubmed.ncbi.nlm.nih.gov/37126718/))
 
 US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group)
