@@ -17,7 +17,7 @@ Shiu SH, Lehti-Shiu MD. Evolution of research topics and paradigms in plant scie
 
 ## 2023
 
-Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<sup>u</sup>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ (in press)
+Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<sup>u</sup>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ diad021 [doi](https://doi.org/10.1093/insilicoplants/diad021)
 
 Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 2023:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
