@@ -13,7 +13,11 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 ## Pre-prints
 
-Shiu SH, Lehti-Shiu MD. Evolution of research topics and paradigms in plant sciences. _bioRxiv_ [doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
+__Wang P, Lehti-Shiu MD__, Lotreck S, __Segura Abá K, Shiu SH__. Prediction of plant complex traits via integration of multi-omics data _bioRxiv_ [doi:10.1101/2023.11.14.566971](https://doi.org/10.1101/2023.11.14.566971)
+
+View ORCID ProfilePeipei Wang, Melissa D Lehti-Shiu, Serena Lotreck, Kenia Segura Aba, View ORCID ProfileShin-Han Shiu
+
+__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _bioRxiv_ [doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
 
 ## 2023
 
