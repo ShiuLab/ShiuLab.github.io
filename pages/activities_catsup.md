@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup/"
 ---
+### 12/1/2023: Why is China’s high-quality research footprint becoming more introverted?
+Today the Shiu lab discussed international collaboration using a [recent trend discussed in Nature](https://www.nature.com/articles/d41586-023-03762-4). The discussion revolved around the future of international collaboration, as well as how US researchers can continue to do innovative research amidst a changing research landscape. 
+
 ### 9/15/2023: The Difference between Productivity and Performance
 The lab talked about optimizing productivity and how, when marketing yourself, the focus is often on previous performance. The discussion covered what this meant for future job opportunities and how to show productivity as a graduate student does not always lead to high performance-based measures due to setbacks in research.
 
