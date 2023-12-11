@@ -21,6 +21,8 @@ __Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant 
 
 Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<sup>u</sup>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ diad021 [doi](https://doi.org/10.1093/insilicoplants/diad021)
 
+Alzohairy SA, __Moore BM__, Hammerschmidt R, Shiu SH, Hausbeck MK. Lignin biosynthesis gene expression is associated with age-related resistance of winter squash to _Phytophthora capsici_. _J Am Soc Hort Sci_ 148:240-252 [doi](https://doi.org/10.21273/JASHS05317-23)
+
 Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 2023:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
 Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37126718/)
