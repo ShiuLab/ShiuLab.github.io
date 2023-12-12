@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup/"
 ---
+### 12/8/2023: Project Time Management: Strategies, Tips & Tools
+Time management is an important part of project management in any field. Referencing an [article about time management](https://www.projectmanager.com/blog/project-time-management-strategies) the conversation revolved around how to best organize projects and meet goals while managing their own projects, research, and collaborations.
+
 ### 12/1/2023: Why is China’s high-quality research footprint becoming more introverted?
 Today the Shiu lab discussed international collaboration using a [recent trend discussed in Nature](https://www.nature.com/articles/d41586-023-03762-4). The discussion revolved around the future of international collaboration, as well as how US researchers can continue to do innovative research amidst a changing research landscape. 
 
