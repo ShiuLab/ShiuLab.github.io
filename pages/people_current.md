@@ -20,6 +20,7 @@ permalink: "/people_current/"
   <li><img src="Elinor.jpg" alt='photo of Elinor'><p>Eleanor Siler<br>Data analyst</p></li>
   <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Computational Mathematics, Science and Engineering</p></li>
   <li><img src="Edmund.jpg" alt='photo of Edmond'><p>Edmond Anderson<br>Computational Mathematics, Science and Engineering</p></li>
+  <li><img src="Thejesh.jpg" alt='photo of Thejesh'><p>Thejesh Mallidi<br>Department of Statistics and Probability</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
@@ -28,6 +29,7 @@ permalink: "/people_current/"
   <li><img src="Anonimus.jpg" alt='photo of Mae'><p>Mae Milton<br>Plant Biology</p></li>
   <li><img src="Skylar.jpg" alt='photo of Skylar'><p>Skylar Fusco<br>Human Biology</p></li>
   <li><img src="Colton.png" alt='photo of Colton'><p>Colton Boguszewski<br>Human Biology</p></li>
+  <li><img src="Mosses.jpg" alt='photo of Mosses'><p>Moses Barnie<br>Computer Science</p></li>
 </ul>
 
 <H3>Highschool Students</H3>
