@@ -9,15 +9,23 @@ permalink: "/publications_last5/"
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/) or see our [Google Scholar](https://scholar.google.com/citations?user=q8qVi6sAAAAJ&hl=en) page
 
-__Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members.
+__Notation__: e: joint first/corresponding, u:undergrad, h: high school student, __Bold__: lab members.
 
 ## Pre-prints
 
-Shiu SH, Lehti-Shiu MD. Evolution of research topics and paradigms in plant sciences. _bioRxiv_ [doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
+__Wang P, Lehti-Shiu MD__, Lotreck S, __Segura Abá K, Shiu SH__. Prediction of plant complex traits via integration of multi-omics data _bioRxiv_ [doi:10.1101/2023.11.14.566971](https://doi.org/10.1101/2023.11.14.566971)
+
+__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _bioRxiv_ [doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
 
 ## 2023
 
-Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [pubmed]([https://www.pnas.org/doi/10.1073/pnas.2219469120](https://pubmed.ncbi.nlm.nih.gov/37126718/))
+Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<sup>u</sup>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ diad021 [doi](https://doi.org/10.1093/insilicoplants/diad021)
+
+Alzohairy SA, __Moore BM__, Hammerschmidt R, Shiu SH, Hausbeck MK. Lignin biosynthesis gene expression is associated with age-related resistance of winter squash to _Phytophthora capsici_. _J Am Soc Hort Sci_ 148:240-252 [doi](https://doi.org/10.21273/JASHS05317-23)
+
+Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 2023:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
+
+Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37126718/)
 
 US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group)
 

@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "Our team"
   url: '/people_current/'
-  image: lab_220308.png
+  image: lab_231019.png
   text: "An energetic, fun, and collaborative group of scientists"
 widget3:
   title: "Research Projects"

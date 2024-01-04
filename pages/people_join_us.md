@@ -40,3 +40,7 @@ Applicants should provide the following information in one file and send it to s
 - Your personal interests in research
 
 2. The names, affiliations, e-mail addresses, and phone numbers of 1-2 professional references (preferably faculty/staff at MSU).
+
+<br>Below are additional resources for undergraduate students who work in the lab. Here are an example timesheet that they would fill out every 2 weeks and the guidelines/expectations for those hired in the lab.
+<br><a href="/files/2023_PLB_HOURS_WORKED.pdf">Timesheet</a>
+<br><a href="/files/guidelines_for_hourly_workers.docx">Guidelines for Hourly Workers</a>
