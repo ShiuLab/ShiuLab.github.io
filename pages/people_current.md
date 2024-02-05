@@ -18,9 +18,9 @@ permalink: "/people_current/"
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
   <li><img src="Huan.png" alt='photo of Huan'><p>Huan Chen<br>Genetics & Genome Sciences</p></li>
   <li><img src="Elinor.jpg" alt='photo of Elinor'><p>Eleanor Siler<br>Data analyst</p></li>
-  <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Computational Mathematics, Science and Engineering</p></li>
-  <li><img src="Edmund.jpg" alt='photo of Edmond'><p>Edmond Anderson<br>Computational Mathematics, Science and Engineering</p></li>
-  <li><img src="Thejesh.jpg" alt='photo of Thejesh'><p>Thejesh Mallidi<br>Department of Statistics and Probability</p></li>
+  <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Comp Math, Sci & Engr</p></li>
+  <li><img src="Edmund.jpg" alt='photo of Edmond'><p>Edmond Anderson<br>Data Science</p></li>
+  <li><img src="Thejesh.jpg" alt='photo of Thejesh'><p>Thejesh Mallidi<br>Data Science</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
