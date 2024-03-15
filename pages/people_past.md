@@ -46,6 +46,11 @@ header:
 ## Graduate Students & Associates
 <table style="width:100%">
   <col width="50px" />
+    <tr>
+    <td><img src="../images/people_past/Huan.png" width="40px"> </td>
+    <td>Huan Chen (2021-23) PhD Genetics & Genome Sciences</td>
+    <td> - </td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/fanrui.jpg" width="40px"> </td>
     <td>Fanrui Meng (2017-20) Associate</td>
