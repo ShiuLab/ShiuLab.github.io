@@ -48,6 +48,8 @@
   url: "/activities_catsup/"
   side: left
   dropdown:
+  - title: "Lab meeting"
+    url: "/activities_labmeeting/"
   - title: "CATSUP"
     url: "/activities_catsup/"
   - title: "Social"
