@@ -6,12 +6,20 @@ permalink: "/about_news/"
 header:
     image_fullwidth: "header_mps.png"
 ---
+#### 1/3/24: Thejesh joins the lab!
+Thejesh Mallidi got his Bachelor's degree in Computer Science and is now a Master's student in Data Science at MSU. He's spent the last two years honing his skills as a Machine Learning Engineer specializing in Applied Machine Learning, Computer Vision, Deep Learning and Natural Language Processing. His background includes hands-on experience in developing and deploying machine learning models for various applications. His current research focus is on applying large language models to plant science literature. Welcome, Thejesh!
+
+#### 9/1/23: Our newest PhD sudent, Jingyao!
+Welcome to the lab, Jingyao! Jingyao Tang is a PhD student in the Department of Computational Mathematics, Science, and Engineering. She studied Applied Statistics for her Master's degree while at Syracuse Univeristy in New York.
+
+#### 8/17/23: Congratulations to Brianna on becoming a PhD candidate!
+Brianna presented her research on utilizing machine learning and AI techniques to elucidate genetic mechanisms important under abiotic stress. We are very proud of her!
 
 #### 3/15/23: Welcome, Paulo!
 Dr. Paulo Izquierdo has joined the lab as a Great Lakes Bioenergy Research Center postdoctoral research associate, having recently completed his PhD in Plant Breeding, Genetics, and Biotechnology here at Michigan State. During his PhD, he worked on implementing genomic prediction methods for research on dry beans to increase the genetic gain per unit of time in traits such as yield, mineral concentration, and end-use quality traits. His research focus now is on plant computational sciences and genomic prediction in switchgrass. We are glad to have you!
 
 #### 2/1/23: Welcome, Rajneesh!
-Welcome Dr. Rajneesh Singhal who has decided to join the lab as a postdoctoral research associate.
+Welcome Dr. Rajneesh Singhal who has decided to join the lab as a postdoctoral research associate!
 
 #### 10/10/22: Thilanka's study on switchgrass transcriptional cold-response is published in Frontiers in Plant Science! Congratulations!
 In collaboration with several members in the lab (Brianna, Peipei, and Shinhan), they investigated the [Temporal regulation of of cold transcriptional response in switchgrass](https://doi.org/10.3389/fpls.2022.998400). Switchgrass low-land ecotypes have significantly more biomass but lower cold tolerance than up-land ecotypes. Therefore, understanding the molecular mechanisms underlying cold response in up-land ecotypes can contribute to improving cold tolerance of high-yielding low-land ecotypes under chilling and freezing environmental conditions. They dissect the cis-regulatory basis of switchgrass cold stress transcriptional response using machine learning methods. 
