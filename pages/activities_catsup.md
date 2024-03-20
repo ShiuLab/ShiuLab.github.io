@@ -6,6 +6,14 @@ teaser: "Coffee And Tea, Snacks, and Usually Plants...</a>."
 header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup/"
+
+## Goals of CATSUP
+
+
+## Example activities
+
+For example topics of what we have done, please [check this out](/activities_catsup_examples/)
+
 ---
 ### 3/15/2024: What to Do and What Not to Do During Meetings
 This week, the Shiu Lab focused on how [efficient meetings should be run](https://medium.com/@rociofernn/what-to-do-and-what-not-to-do-during-meetings-a9e26a14365c). Two types of meetings, synchronous and asynchronous, can be useful depending on the context and if a conversation between members of the meeting is required. In addition, the importance of a list of goals for each meeting, possible short pre-meeting reading, and guided discussion are all keys to a efficent and productive meeting. 
