@@ -8,7 +8,7 @@ header:
 permalink: "/activities_catsup/"
 ---
 
-## Goals of CATSUP
+## Why CATSUP?
 To be added soon!
 
 ## Example activities
