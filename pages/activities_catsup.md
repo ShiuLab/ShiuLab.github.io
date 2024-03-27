@@ -9,7 +9,10 @@ permalink: "/activities_catsup/"
 ---
 
 ## Why CATSUP?
-To be added soon!
+- Enjoy tea!
+- Support lab cohesion and spend time together, building lab community
+- Learn a new topic as a group
+- Practice leading informal topic discussion
 
 ## Example activities
 For example topics of what we have done, please [check this out](/activities_catsup_examples/)
