@@ -18,5 +18,5 @@ Lab meeting is where we meet weekly to talk about individual member research in 
 - Solicit feedback on the overall presentation
 
 ### General purposes:
-- The audience (other lab members) learn to ask critical questions and provide _*actionable*_ feedback
+- The audience (other lab members) learn to ask critical questions and provide *actionable* feedback
 - Discuss "lab business", including fun events we plan to do as a lab, volunteer events, etc.
