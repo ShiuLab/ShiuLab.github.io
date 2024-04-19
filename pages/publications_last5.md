@@ -23,7 +23,7 @@ Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater c
 
 ## 2023
 
-Alzohairy SA, __Moore BM__, Hammerschmidt R, Shiu SH, Hausbeck MK. Lignin biosynthesis gene expression is associated with age-related resistance of winter squash to _Phytophthora capsici_. _J Am Soc Hort Sci_ 148:240 [doi](https://doi.org/10.21273/JASHS05317-23)
+Alzohairy SA, __Moore BM__, Hammerschmidt R, __Shiu SH__, Hausbeck MK. Lignin biosynthesis gene expression is associated with age-related resistance of winter squash to _Phytophthora capsici_. _J Am Soc Hort Sci_ 148:240 [doi](https://doi.org/10.21273/JASHS05317-23)
 
 Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<sup>u</sup>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ diad021 [doi](https://doi.org/10.1093/insilicoplants/diad021)
 
