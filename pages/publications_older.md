@@ -11,6 +11,20 @@ permalink: "/publications_older/"
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
+## 2019
+
+**Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH** (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
+
+**Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH** (2019) Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* 181(4):1739 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
+
+**Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae (2019) *Scientific Reports* 9:12122 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31431676)
+
+**Panchy NL, Azodi CB, Winship EF<font color="red"><sup>u</sup></font>, Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics* 19:77 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30866803)
+
+Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2019) A comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes. *Proc. Natl. Acad. Sci., USA* 116(8):3091-3099 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30718437)
+
+**Moore BM**, **Wang P**, Fan P, Leong B, Schenck C, **Lloyd J**, **Lehti-Shiu MD**, Last R, Pichersky E, **Shiu SH** (2019) Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci., USA* 116(6):2344-2353 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30674669)
+
 ## 2018
 
 **Wang P**, **Moore BM**, **Panchy NL**, **Meng F**, **Lehti-Shiu MD**, **Shiu SH** (2018) Factors influencing gene family size variation among related species in a plant family, Solanaceae. *Genome Biol. Evol.* 10(10):2596–2613 [pubmed](https://pubmed.ncbi.nlm.nih.gov/30239695/)
