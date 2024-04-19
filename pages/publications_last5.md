@@ -15,19 +15,21 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 __Wang P, Lehti-Shiu MD__, Lotreck S, __Segura Abá K, Shiu SH__. Prediction of plant complex traits via integration of multi-omics data _bioRxiv_ [doi:10.1101/2023.11.14.566971v2](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v2)
 
-__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _bioRxiv_ [doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
+## 2024
+
+__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _PLoS Biol_ (in press) [bioRxiv doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
+
+Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 908:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
 ## 2023
 
+Alzohairy SA, __Moore BM__, Hammerschmidt R, Shiu SH, Hausbeck MK. Lignin biosynthesis gene expression is associated with age-related resistance of winter squash to _Phytophthora capsici_. _J Am Soc Hort Sci_ 148:240 [doi](https://doi.org/10.21273/JASHS05317-23)
+
 Lotreck SA, __Segura Abá K, Lehti-Shiu MD, Seeger A<sup>u</sup>, Brown BNI, Ranaweera T__, Schumacher A, Ghassemi M, __Shiu SH__. In a PICKLE: A gold standard entity and relation corpus for the molecular plant sciences. _In Silico Plants_ diad021 [doi](https://doi.org/10.1093/insilicoplants/diad021)
-
-Alzohairy SA, __Moore BM__, Hammerschmidt R, Shiu SH, Hausbeck MK. Lignin biosynthesis gene expression is associated with age-related resistance of winter squash to _Phytophthora capsici_. _J Am Soc Hort Sci_ 148:240-252 [doi](https://doi.org/10.21273/JASHS05317-23)
-
-Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 2023:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
 Lee YS, __Shiu SH__, and Grotewold E. Evolution and diversification of the ACT-like domain associated with plant basic helix–loop–helix transcription factors _Proc. Natl. Acad. Sci. USA_ 120(19):e2219469120 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37126718/)
 
-US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu Biodesign: Plant group)
+US DOE. Artificial Intelligence and Machine Learning for Bioenergy Research: Opportunities and Challenges, DOE/SC-0211. U.S. Department of Energy Office of Science and Office of Energy Efficiency and Renewable Energy. [doi](https://doi.org/10.2172/1968870) (Shiu in Biodesign: Plant group)
 
 Cuddington K, Abbott KC, Adler FR, Aydeniz M, Dale R, Gross LJ, Hastings A, Hobson EA, Karatayev V, Killion A, Madamanchi A, Marrraffini ML, McCombs A, Samyono W, __Shiu SH__, Watanabe KH, White ER. Challenges and opportunities to build quantitative self-confidence in biologists. _Bioscience_ 73:364 [doi](https://doi.org/10.1093/biosci/biad015)
 
@@ -82,20 +84,5 @@ Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC
 Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* 182(3):1420 [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
 
 **Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
-
-## 2019
-
-**Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH** (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)
-
-**Uygun S<font color="green"><sup>e</sup></font>**, **Azodi, CB<font color="green"><sup>e</sup></font>**, **Shiu, SH** (2019) Cis-regulatory code for predicting plant cell-type specific high salinity response. *Plant Physiol.* 181(4):1739 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31551359)
-
-**Lloyd JP**, Bowman MJ, **Azodi CB**, Moghe GD, Childs KL, **Shiu SH**. Evolutionary characteristics of intergenic transcribed regions indicate rare novel genes and widespread noisy transcription in the Poaceae (2019) *Scientific Reports* 9:12122 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31431676)
-
-**Panchy NL, Azodi CB, Winship EF<font color="red"><sup>u</sup></font>, Shiu SH** (2019) Expression and regulatory asymmetry of retained *Arabidopsis thaliana* transcription factor genes derived from whole genome duplication. *BMC Genomics* 19:77 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30866803)
-
-Chang YM, Lin HH, Liu WY, Yu CP, Chen HJ, Kao YY, Wu YH, Lin JJ, Li MYJ, Tu SL, Wu SH, **Shiu SH**, Ku MSB, Li WH (2019) A comparative transcriptomics method to infer gene coexpression networks and its applications to maize and rice leaf transcriptomes. *Proc. Natl. Acad. Sci., USA* 116(8):3091-3099 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30718437)
-
-**Moore BM**, **Wang P**, Fan P, Leong B, Schenck C, **Lloyd J**, **Lehti-Shiu MD**, Last R, Pichersky E, **Shiu SH** (2019) Robust predictions of specialized metabolism genes through machine learning. *Proc. Natl. Acad. Sci., USA* 116(6):2344-2353 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30674669)
-
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
