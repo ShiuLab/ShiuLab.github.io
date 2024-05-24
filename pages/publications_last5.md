@@ -17,7 +17,7 @@ __Wang P, Lehti-Shiu MD__, Lotreck S, __Segura Abá K, Shiu SH__. Prediction of 
 
 ## 2024
 
-__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _PLoS Biol_ (in press) [bioRxiv doi: 10.1101/2023.10.02.560457](https://www.biorxiv.org/content/10.1101/2023.10.02.560457v1)
+__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _PLoS Biol_ 22(5):e3002612 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38781246/))
 
 Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 908:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
