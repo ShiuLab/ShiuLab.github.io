@@ -13,7 +13,7 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 ## Pre-prints
 
-Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF, Makowska K, Hensel G, **Ranaweera T, Shiu SH**, Schnurbusch T, von Korff Schmising M, Simon R. _bioRxiv_ [doi:10.1101/2024.05.28.595952](https://www.biorxiv.org/content/10.1101/2024.05.28.595952v1.abstract))
+Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF, Makowska K, Hensel G, **Ranaweera T, Shiu SH**, Schnurbusch T, von Korff Schmising M, Simon R. _bioRxiv_ [doi:10.1101/2024.05.28.595952](https://www.biorxiv.org/content/10.1101/2024.05.28.595952v1.abstract)
 
 ## 2024
 
