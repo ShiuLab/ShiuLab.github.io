@@ -13,13 +13,13 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 ## Pre-prints
 
-__Peipei Wang<sup>#</sup>, Fanrui Meng__, Christina B Del Azodi, __Kenia Segura Aba__, Michael D. Casler, __Shin-Han Shiu__<sup>#</sup>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. _bioRxiv_ [doi:10.1101/2024.06.17.599440v1](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
+__Peipei Wang<font color="green"><sup>e</sup></font>, Fanrui Meng__, Christina B Del Azodi, __Kenia Segura Aba__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. _bioRxiv_ [doi:10.1101/2024.06.17.599440v1](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
 
 Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF, Makowska K, Hensel G, **Ranaweera T, Shiu SH**, Schnurbusch T, von Korff Schmising M, Simon R. _bioRxiv_ [doi:10.1101/2024.05.28.595952](https://www.biorxiv.org/content/10.1101/2024.05.28.595952v1.abstract)
 
 ## 2024
 
-__Wang P, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ (accepted pending revision) [preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v2)
+__Wang P<font color="green"><sup>e</sup></font>, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__<font color="green"><sup>e</sup></font>. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ (accepted pending revision) [preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v2)
 
 __Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _PLoS Biol_ 22(5):e3002612 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38781246/)
 
