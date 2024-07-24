@@ -13,7 +13,7 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 ## Pre-prints
 
-__Wang P<font color="green"><sup>e</sup></font>, Meng F, Azodi CB, Segura Abá K__, Casler MD, __Shiu SH__<font color="green"><sup>e</sup></font>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. _bioRxiv_ [doi:10.1101/2024.06.17.599440v1](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
+__Wang P<font color="green"><sup>e</sup></font>, Meng F__, Azodi CB, __Segura Abá K__, Casler MD, __Shiu SH__<font color="green"><sup>e</sup></font>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. _bioRxiv_ [doi:10.1101/2024.06.17.599440v1](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
 
 Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF, Makowska K, Hensel G, **Ranaweera T, Shiu SH**, Schnurbusch T, von Korff Schmising M, Simon R. _bioRxiv_ [doi:10.1101/2024.05.28.595952](https://www.biorxiv.org/content/10.1101/2024.05.28.595952v1.abstract)
 
@@ -49,7 +49,7 @@ Lucker BF, Temple JA, **Panchy NL**, Benning UF, BibikaPeter JD, Neofotis PG, We
 
 van Dijk ADJ, **Shiu SH**, de Ridder D. Editorial: Artificial Intelligence and Machine Learning Applications in Plant Genomics and Genetics. *Front Artif Intell.* 5:959470 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35832206/)
 
-**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* 234:1521–1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
+**Wang P<font color="green"><sup>e</sup></font>, Meng F<font color="green"><sup>e</sup></font>, Donaldson P<font color="red"><sup>u</sup></font>, Horan S<font color="red"><sup>u</sup></font>, Panchy  NL, Vischulis E, Winship E<font color="red"><sup>u</sup></font>**, Conner JK, Krysan PJ, **Shiu SH<font color="green"><sup>e</sup></font>, Lehti-Shiu MD<font color="green"><sup>e</sup></font>**. High throughput measurement of plant fitness traits with an object detection method using Faster R-CNN. *New Phytologist* 234:1521–1533 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35218008/)
 
 **Wang P<font color="green"><sup>e</sup></font>, Schumacher A and Shiu SH<font color="green"><sup>e</sup></font>**. Computational prediction of plant metabolic pathways. *Current Opinion in Plant Biology* 66:102171 [pubmed](https://pubmed.ncbi.nlm.nih.gov/35078130/)
 
