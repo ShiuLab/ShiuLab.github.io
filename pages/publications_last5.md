@@ -19,7 +19,7 @@ Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF
 
 ## 2024
 
-__Wang P<font color="green"><sup>e</sup></font>, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__<font color="green"><sup>e</sup></font>. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ (accepted pending revision) [preprint](https://www.biorxiv.org/content/10.1101/2023.11.14.566971v2)
+__Wang P<font color="green"><sup>e</sup></font>, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__<font color="green"><sup>e</sup></font>. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ 15(1):6856 [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/)
 
 __Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _PLoS Biol_ 22(5):e3002612 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38781246/)
 
