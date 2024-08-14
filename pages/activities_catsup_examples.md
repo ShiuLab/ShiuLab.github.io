@@ -8,7 +8,7 @@ header:
 permalink: "/activities_catsup_examples/"
 ---
 ### 8/9/2024: Crash Course on Ancestral State Reconstruction 
-Due to popular demand our lab member and PhD candidate, Thilanka Ranaweera explained different aspects of ancestral state reconstruction and an approach to determine the deviation from random chance an extant can be after the ancestral state has been determined. Thank you Thilanka!
+Due to popular demand our lab member and PhD candidate, Thilanka Ranaweera, explained different aspects of ancestral state reconstruction and an approach to determine the deviation from random chance an extant can be after the ancestral state has been determined. Thank you Thilanka!
 
 ### 3/15/2024: What to Do and What Not to Do During Meetings
 This week, the Shiu Lab focused on how [efficient meetings should be run](https://medium.com/@rociofernn/what-to-do-and-what-not-to-do-during-meetings-a9e26a14365c). Two types of meetings, synchronous and asynchronous, can be useful depending on the context and if a conversation between members of the meeting is required. In addition, the importance of a list of goals for each meeting, possible short pre-meeting reading, and guided discussion are all keys to a efficent and productive meeting. 
