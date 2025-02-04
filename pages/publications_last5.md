@@ -19,9 +19,11 @@ Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF
 
 ## 2024
 
+Washburn JD, Varela JI, Xavier A, Chen Q, Ertl D, Gage JL, Holland JB, Lima DC, Romay MC, Lopez-Cruz M, de Los Campos G, Barber W, Zimmer C, Trucillo Silva I, Rocha F, Rincent R, Ali B, Hu H, Runcie DE, Gusev K, Slabodkin A, Bax P, Aubert J, Gangloff H, Mary-Huard T, Vanrenterghem T, Quesada-Traver C, Yates S, Ariza-Suárez D, Ulrich A, Wyler M, Kick DR, Bellis ES, Causey JL, Soriano Chavez E, Wang Y, Piyush V, Fernando GD, Hu RK, Kumar R, Timon AJ, Venkatesh R, __Segura Abá K__, Chen H, Ranaweera T, __Shiu SH, Wang P__, Gordon MJ, Amos BK, Busato S, Perondi D, Gogna A, Psaroudakis D, Chen CPJ, Al-Mamun HA, Danilevicz MF, Upadhyaya SR, Edwards D, de Leon N. Global genotype by environment prediction competition reveals that diverse modeling strategies can deliver satisfactory maize yield estimates. _Genetics_ [doi](https://doi.org/10.1093/genetics/iyae195), [pubmed](https://pubmed.ncbi.nlm.nih.gov/39576009/)
+
 __Wang P<font color="green"><sup>e</sup></font>, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__<font color="green"><sup>e</sup></font>. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ 15(1):6856 [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/)
 
-__Shiu SH, Lehti-Shiu MD__. Evolution of research topics and paradigms in plant sciences. _PLoS Biol_ 22(5):e3002612 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38781246/)
+__Shiu SH, Lehti-Shiu MD__. Assessing the evolution of research topics in a biological field using plant science as an example. _PLoS Biol_ 22(5):e3002612 [pubmed](https://pubmed.ncbi.nlm.nih.gov/38781246/)
 
 Li Y, Miyani B, Childs KL, __Shiu SH__, and Xagoraraki I. Effect of wastewater collection and concentration methods on assessment of viral diversity. _Sci Total Environ_ 908:168128 [pubmed](https://pubmed.ncbi.nlm.nih.gov/37918732/)
 
