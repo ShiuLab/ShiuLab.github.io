@@ -21,6 +21,7 @@ permalink: "/people_current/"
   <li><img src="Edmund.jpg" alt='photo of Edmond'><p>Edmond Anderson<br>Data Science</p></li>
   <li><img src="Thejesh.jpg" alt='photo of Thejesh'><p>Thejesh Mallidi<br>Data Science</p></li>
   <li><img src="Shang_huan.jpg" alt='photo of Shanh'><p>Shang-Huan Chiang<br>Plant Biology</p></li>
+  <li><img src="Yasasree.jpg" alt='photo of Yasaree'><p>Yasasree Singam<br>Data Scientist</p></li>
 </ul>
 
 <H3>Undergraduate Students</H3>
