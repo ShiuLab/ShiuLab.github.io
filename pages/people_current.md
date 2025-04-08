@@ -31,6 +31,7 @@ permalink: "/people_current/"
   <li><img src="Skylar.jpg" alt='photo of Skylar'><p>Skylar Fusco<br>Human Biology</p></li>
   <li><img src="Colton.png" alt='photo of Colton'><p>Colton Boguszewski<br>Human Biology</p></li>
   <li><img src="Mosses.jpg" alt='photo of Mosses'><p>Moses Barnie<br>Computer Science</p></li>
+  <li><img src="Lisett.png" alt='photo of Lisett'><p>Lisett Becerra<br>Plant Biology</p></li>
 </ul>
 
 <H3>Highschool Students</H3>
