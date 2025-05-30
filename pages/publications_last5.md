@@ -13,13 +13,15 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 ## Pre-prints
 
-__Wang P<font color="green"><sup>e</sup></font>, Meng F__, Azodi CB, __Segura Abá K__, Casler MD, __Shiu SH__<font color="green"><sup>e</sup></font>. 2024. Impact of genome assemblies, genotyping methods, variant types, ploidy levels and population structures on genomic prediction in switchgrass. _bioRxiv_ [doi:10.1101/2024.06.17.599440v1](https://www.biorxiv.org/content/10.1101/2024.06.17.599440v1)
-
 Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF, Makowska K, Hensel G, **Ranaweera T, Shiu SH**, Schnurbusch T, von Korff Schmising M, Simon R. _bioRxiv_ [doi:10.1101/2024.05.28.595952](https://www.biorxiv.org/content/10.1101/2024.05.28.595952v1.abstract)
+
+## 2025
+
+**Peipei Wang**<font color="green"><sup>e</sup></font>, **Fanrui Meng**, **Christina B Del Azodi**, **Kenia Segura Aba**, Michael D. Casler, **Shin-Han Shiu**<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiol* kiaf188 [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
 
 ## 2024
 
-Washburn JD, Varela JI, Xavier A, Chen Q, Ertl D, Gage JL, Holland JB, Lima DC, Romay MC, Lopez-Cruz M, de Los Campos G, Barber W, Zimmer C, Trucillo Silva I, Rocha F, Rincent R, Ali B, Hu H, Runcie DE, Gusev K, Slabodkin A, Bax P, Aubert J, Gangloff H, Mary-Huard T, Vanrenterghem T, Quesada-Traver C, Yates S, Ariza-Suárez D, Ulrich A, Wyler M, Kick DR, Bellis ES, Causey JL, Soriano Chavez E, Wang Y, Piyush V, Fernando GD, Hu RK, Kumar R, Timon AJ, Venkatesh R, __Segura Abá K__, Chen H, Ranaweera T, __Shiu SH, Wang P__, Gordon MJ, Amos BK, Busato S, Perondi D, Gogna A, Psaroudakis D, Chen CPJ, Al-Mamun HA, Danilevicz MF, Upadhyaya SR, Edwards D, de Leon N. Global genotype by environment prediction competition reveals that diverse modeling strategies can deliver satisfactory maize yield estimates. _Genetics_ [doi](https://doi.org/10.1093/genetics/iyae195), [pubmed](https://pubmed.ncbi.nlm.nih.gov/39576009/)
+Washburn JD, Varela JI, Xavier A, Chen Q, Ertl D, Gage JL, Holland JB, Lima DC, Romay MC, Lopez-Cruz M, de Los Campos G, Barber W, Zimmer C, Trucillo Silva I, Rocha F, Rincent R, Ali B, Hu H, Runcie DE, Gusev K, Slabodkin A, Bax P, Aubert J, Gangloff H, Mary-Huard T, Vanrenterghem T, Quesada-Traver C, Yates S, Ariza-Suárez D, Ulrich A, Wyler M, Kick DR, Bellis ES, Causey JL, Soriano Chavez E, Wang Y, Piyush V, Fernando GD, Hu RK, Kumar R, Timon AJ, Venkatesh R, __Segura Abá K, Chen H, Ranaweera T, Shiu SH__, Wang P, Gordon MJ, Amos BK, Busato S, Perondi D, Gogna A, Psaroudakis D, Chen CPJ, Al-Mamun HA, Danilevicz MF, Upadhyaya SR, Edwards D, de Leon N. Global genotype by environment prediction competition reveals that diverse modeling strategies can deliver satisfactory maize yield estimates. _Genetics_ [doi](https://doi.org/10.1093/genetics/iyae195), [pubmed](https://pubmed.ncbi.nlm.nih.gov/39576009/)
 
 __Wang P<font color="green"><sup>e</sup></font>, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__<font color="green"><sup>e</sup></font>. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ 15(1):6856 [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/)
 
