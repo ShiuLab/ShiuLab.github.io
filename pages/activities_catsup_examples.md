@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup_examples/"
 ---
+### 5/30/2025: [Genome Modeling and Design Across all Domains of Life with Evo2](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1)
+The Shiu Lab discussed a paper currently in preprint about identifying the complexity of genomes using a CNN framework trained on genetic sequences from all domains of life. The lab touched on how these finding reflect what people know biologically and what new findings models like this can present.
+
 ### 8/9/2024: Crash Course on Ancestral State Reconstruction 
 Due to popular demand our lab member and PhD candidate, Thilanka Ranaweera, explained different aspects of ancestral state reconstruction and an approach to determine the deviation from random chance an extant can be after the ancestral state has been determined. Thank you Thilanka!
 
