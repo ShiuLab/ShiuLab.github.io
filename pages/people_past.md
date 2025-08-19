@@ -1,4 +1,4 @@
----
+s---
 layout: page
 title: "Past Members"
 subheadline: "People"
@@ -11,6 +11,11 @@ header:
 
 <table style="width:100%">
   <col width="50px" />
+    <tr>
+    <td><img src="../images/people_past/jyothi.jpg"  width="40px"></td>
+    <td>Jyothi Kumar (2018-23)</td>
+    <td>California Riverside</td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/peipei.jpg"  width="40px"></td>
     <td>Peipei Wang (2016-22)</td>
@@ -46,7 +51,17 @@ header:
 ## Graduate Students & Associates
 <table style="width:100%">
   <col width="50px" />
-    <tr>
+  <tr>
+    <td><img src="../images/people_past/Edmund.jpg" width="40px"> </td>
+    <td>Edmond Anderson (2023-25) MSc in Data Science</td>
+    <td> - </td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/Elenor_bird.jpg" width="40px"> </td>
+    <td>Eleanor Siler (2022-25) Associate </td>
+    <td> - </td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/Huan.png" width="40px"> </td>
     <td>Huan Chen (2021-23) PhD Genetics & Genome Sciences</td>
     <td> - </td>
@@ -110,6 +125,26 @@ header:
 
 ## Undergrads (MSU)
 <table style="width:100%">
+<tr>
+    <td><img src="../images/people_past/Skylar.jpg" width="40px"> </td>
+    <td>Skylar Fusco (2023-25)</td>
+    <td>Human Biology</td>
+  </tr>
+<tr>
+    <td><img src="../images/people_past/Colton.png" width="40px"> </td>
+    <td>Colton Boguszewski (2023-24)</td>
+    <td>Human Biology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/Christina.jpg" width="40px"> </td>
+    <td>Christina King (2023-24)</td>
+    <td>Plant Biology</td>
+  </tr>
+  <tr>
+    <td><img src="../images/people_past/Anonimus.jpg" width="40px"> </td>
+    <td>Mae Milton (2023-25)</td>
+    <td>Plant Biology</td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/Krishen.jpg" width="40px"> </td>
     <td>Krishen Patel (2021-23)</td>
@@ -279,6 +314,11 @@ header:
 ## High school students
 <table style="width:100%">
   <tr>
+    <td><img src="../images/people_past/Theres.jpg" width="40px"> </td>
+    <td>Therese Hourani (2024)</td>
+    <td>Lansing Catholic High School, MI</td>
+  </tr>
+  <tr>
     <td><img src="../images/people_past/50px-JFishman_mod.png" width="40px"> </td>
     <td>Jeffrey Fishman (2017)</td>
     <td>Upper Dublin High School, Washington, PA</td>
@@ -397,6 +437,10 @@ header:
 ## Cheer Squad
 <table style="width:100%">
   <col width="50px" />
+    <tr>
+    <td><img src="../images/people_past/Kitty.png" width="40px"></td>
+    <td>Wiggler</td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/Cody_Cleopatra_Theodore.png" width="40px"></td>
     <td>Cody, Cleopatra, and Theodore Seeger</td>
