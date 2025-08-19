@@ -13,15 +13,20 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 
 ## Pre-prints
 
-Vardanega I, Maika JE, Demesa-Arevalo E, Lan T, Kirschner GK, Imani J, Acosta IF, Makowska K, Hensel G, **Ranaweera T, Shiu SH**, Schnurbusch T, von Korff Schmising M, Simon R. _bioRxiv_ [doi:10.1101/2024.05.28.595952](https://www.biorxiv.org/content/10.1101/2024.05.28.595952v1.abstract)
 
 ## 2025
 
-**Peipei Wang**<font color="green"><sup>e</sup></font>, **Fanrui Meng**, **Christina B Del Azodi**, **Kenia Segura Aba**, Michael D. Casler, **Shin-Han Shiu**<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiol* kiaf188 [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
+__Peipei Wang__<font color="green"><sup>e</sup></font>, __Fanrui Meng__, __Christina B Del Azodi__, __Kenia Segura Aba__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology*, p.kiaf188 [doi](https://doi.org/10.1093/plphys/kiaf188), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
+
+Aranguiz K, Horianopoulos LC, Elkin L, __Abá KS__, Jordahl D, Overmyer KA, Wrobel RL, Coon JJ, __Shiu SH__, Rokas A, Hittinger CT. Machine learning reveals genes impacting oxidative stress resistance across yeasts. *Nature Communications*, 16(1), p.5866. [doi](https://doi.org/10.1038/s41467-025-60189-3), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40592811)
+
+__Singhal R, Izquierdo P, Ranaweera T, Segura Abá K, Brown BNI, Lehti-Shiu MD, Shiu SH.__ Using supervised machine-learning approaches to understand abiotic stress tolerance and design resilient crops. *Philosophical Transactions B*, 380(1927), p.20240252. [doi](https://doi.org/10.1098/rstb.2024.0252), [pubmed](https://https://pubmed.ncbi.nlm.nih.gov/40439305/)
+
+Washburn JD, Varela JI, Xavier A, Chen Q, Ertl D, Gage JL, Holland JB, Lima DC, Romay MC, Lopez-Cruz M, de Los Campos G, Barber W, Zimmer C, Trucillo Silva I, Rocha F, Rincent R, Ali B, Hu H, Runcie DE, Gusev K, Slabodkin A, Bax P, Aubert J, Gangloff H, Mary-Huard T, Vanrenterghem T, Quesada-Traver C, Yates S, Ariza-Suárez D, Ulrich A, Wyler M, Kick DR, Bellis ES, Causey JL, Soriano Chavez E, Wang Y, Piyush V, Fernando GD, Hu RK, Kumar R, Timon AJ, Venkatesh R, __Segura Abá K, Chen H, Ranaweera T, Shiu SH__, Wang P, Gordon MJ, Amos BK, Busato S, Perondi D, Gogna A, Psaroudakis D, Chen CPJ, Al-Mamun HA, Danilevicz MF, Upadhyaya SR, Edwards D, de Leon N. Global genotype by environment prediction competition reveals that diverse modeling strategies can deliver satisfactory maize yield estimates. _Genetics_, 229(2), p.iyae195. [doi](https://doi.org/10.1093/genetics/iyae195), [pubmed](https://pubmed.ncbi.nlm.nih.gov/39576009/)
+
+Vardanega, I., Maika, J.E., Demesa-Arevalo, E., Lan, T., Kirschner, G.K., Imani, J., Acosta, I.F., Makowska, K., Hensel, G., __Ranaweera, T. and Shiu, S.H.__. CLAVATA signalling shapes barley inflorescence by controlling activity and determinacy of shoot meristem and rachilla. *Nature Communications*, 16(1), p.3937. [doi](https://doi.org/10.1038/s41467-025-59330-z), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40287461/)
 
 ## 2024
-
-Washburn JD, Varela JI, Xavier A, Chen Q, Ertl D, Gage JL, Holland JB, Lima DC, Romay MC, Lopez-Cruz M, de Los Campos G, Barber W, Zimmer C, Trucillo Silva I, Rocha F, Rincent R, Ali B, Hu H, Runcie DE, Gusev K, Slabodkin A, Bax P, Aubert J, Gangloff H, Mary-Huard T, Vanrenterghem T, Quesada-Traver C, Yates S, Ariza-Suárez D, Ulrich A, Wyler M, Kick DR, Bellis ES, Causey JL, Soriano Chavez E, Wang Y, Piyush V, Fernando GD, Hu RK, Kumar R, Timon AJ, Venkatesh R, __Segura Abá K, Chen H, Ranaweera T, Shiu SH__, Wang P, Gordon MJ, Amos BK, Busato S, Perondi D, Gogna A, Psaroudakis D, Chen CPJ, Al-Mamun HA, Danilevicz MF, Upadhyaya SR, Edwards D, de Leon N. Global genotype by environment prediction competition reveals that diverse modeling strategies can deliver satisfactory maize yield estimates. _Genetics_ [doi](https://doi.org/10.1093/genetics/iyae195), [pubmed](https://pubmed.ncbi.nlm.nih.gov/39576009/)
 
 __Wang P<font color="green"><sup>e</sup></font>, Lehti-Shiu MD__, Lotreck S, __Segura Abá K__, Patrick J. Krysan, __Shiu SH__<font color="green"><sup>e</sup></font>. Prediction of plant complex traits via integration of multi-omics data _Nat Commun_ 15(1):6856 [pubmed](https://pubmed.ncbi.nlm.nih.gov/39127735/)
 
