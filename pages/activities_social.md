@@ -8,19 +8,12 @@ header:
 permalink: "/activities_social/"
 ---
 
-<style>
-.img-right { float: right; margin: 0 0 0.75rem 1rem; }
-.clearfix { clear: both; }
-</style>
-
 #### 04/22/23: ASPB Midwest Conference
-
-<img class="img-right"
-     src="{{ 'ASPB_midwest_21_23.jpg' | relative_url }}"
-     width="300" alt="ASPB Midwest Conference" loading="lazy">
+     
+<img src="ASPB_midwest_21_23.jpeg" width="350" align="right">
      
 Having fun traveling to Iowa for the Midwest ASPB conference. We love the science and food!
-<div class="clearfix"></div>
+<div></div>
 
 #### 11/18/22: Lab meeting and food
 
