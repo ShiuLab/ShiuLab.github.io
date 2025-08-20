@@ -8,14 +8,17 @@ header:
 permalink: "/activities_social/"
 ---
 
-<head>
-  <base href="https://ShiuLab.github.io/images/social/">
-</head>
+<style>
+.img-right { float:right; margin:0 0 0.75rem 1rem; max-width:350px; height:auto; border-radius:6px; }
+.clearfix  { clear:both; }
+</style>
 
 #### 04/22/23: ASPB Midwest Conference
-     
-<img src="ASPB_midwest_21_23.jpg" width="350" align="right">Having fun traveling to Iowa for the Midwest ASPB conference. We love the science and food!
-<div></div>
+<img class="img-right"
+     src="{{ '/images/social/ASPB_midwest_21_23.jpg' | relative_url }}"
+     width="350" alt="ASPB Midwest Conference" loading="lazy">
+Having fun traveling to Iowa for the Midwest ASPB conference. We love the science and food!test2
+<div class="clearfix"></div>
 
 #### 11/18/22: Lab meeting and food
 
