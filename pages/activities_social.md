@@ -17,14 +17,16 @@ permalink: "/activities_social/"
 <img class="img-right"
      src="{{ '/images/social/ASPB_midwest_21_23.jpg' | relative_url }}"
      width="350" alt="ASPB Midwest Conference" loading="lazy">
-Having fun traveling to Iowa for the Midwest ASPB conference. We love the science and food!
+
+Posters, plenaries, and plenty of protein (both dietary and plant-based). Midwest ASPB gave us fresh ideas and even fresher reasons to keep training our appetites.
 <div class="clearfix"></div>
 
 #### 11/18/22: Lab meeting and food
 <img class="img-right"
      src="{{ '/images/social/labmeeting_n_food_2021.jpeg' | relative_url }}"
      width="350" alt="ASPB Midwest Conference" loading="lazy">
-We like to eat food and talk about science (& food). 
+     
+We meet at Shinhan and Melissa’s, where the snacks are abundant, the science is lively, and the jokes are peer-reviewed.
 <div class="clearfix"></div>
 
 
@@ -33,7 +35,7 @@ We like to eat food and talk about science (& food).
      src="{{ '/images/social/lab_pumpkincraving_2021.jpg' | relative_url }}"
      width="350" alt="ASPB Midwest Conference" loading="lazy">
 
-Embracing the fall spirit by carving pumpkins.
+Pumpkin carving party! Michigan brings the colors and the chill; the lab brings the laughter (and questionable jack-o’-lantern design choices)
 <div class="clearfix"></div>
 
 
