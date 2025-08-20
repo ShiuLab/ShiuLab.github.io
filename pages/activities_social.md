@@ -16,7 +16,7 @@ permalink: "/activities_social/"
 #### 04/22/23: ASPB Midwest Conference
 
 <img class="img-right"
-     src="{{ '/images/research/research_subfunction.png' | relative_url }}"
+     src="{{ 'ASPB_midwest_21_23.jpg' | relative_url }}"
      width="300" alt="ASPB Midwest Conference" loading="lazy">
      
 Having fun traveling to Iowa for the Midwest ASPB conference. We love the science and food!
