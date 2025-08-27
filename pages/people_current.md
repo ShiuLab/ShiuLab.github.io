@@ -24,6 +24,7 @@ permalink: "/people_current/"
 
 <H3>Undergraduate Students</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+  <li><img src="Apurva.jpg" alt='photo of Apurva'><p>Apurva Poddar<br>Human Biology</p></li>
   <li><img src="Mosses.jpg" alt='photo of Mosses'><p>Moses Barnie<br>Computer Science</p></li>
   <li><img src="Lisett.png" alt='photo of Lisett'><p>Lisett Becerra<br>Plant Biology</p></li>
 </ul>
