@@ -13,6 +13,16 @@ permalink: "/activities_social/"
 .clearfix  { clear:both; }
 </style>
 
+#### 15/08/25: BBQ lab!
+<img class="img-right"
+     src="{{ '/images/social/bbq_08_25.jpeg' | relative_url }}"
+     width="350" alt="" loading="lazy">
+
+The lab gathered for a summer barbecue, grilling up both meat and vegan options while sharing research ideas and good laughs. Our diverse team of ‘master chefs’ made it an international feast!
+
+<div class="clearfix"></div>
+
+
 #### 18/01/25: Winter Adventures on Skis! 🎿❄️
 <img class="img-right"
      src="{{ '/images/social/cross_country_01_25.jpeg' | relative_url }}"
