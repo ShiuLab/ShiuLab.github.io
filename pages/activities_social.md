@@ -13,7 +13,7 @@ permalink: "/activities_social/"
 .clearfix  { clear:both; }
 </style>
 
-#### 15/08/25: BBQ lab!
+#### 15/08/25: Summer BBQ with Science and Flavor 🍖🌽
 <img class="img-right"
      src="{{ '/images/social/bbq_08_25.jpeg' | relative_url }}"
      width="350" alt="" loading="lazy">
