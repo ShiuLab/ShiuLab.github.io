@@ -15,7 +15,7 @@ permalink: "/activities_social/"
 
 #### 18/01/25: Winter Adventures on Skis! 🎿❄️
 <img class="img-right"
-     src="{{ '/images/social/camping_10_24.jpeg' | relative_url }}"
+     src="{{ '/images/social/cross_country_01_25.jpeg' | relative_url }}"
      width="350" alt="" loading="lazy">
 
 Winter is here, which means it’s time for skiing! The Shiu Lab hit the snowy trails together for some cross-country fun, a great way to enjoy Michigan winters while taking a break from the lab.
