@@ -12,7 +12,7 @@ permalink: "/publications_last5/"
 __Notation__: e: joint first/corresponding, u:undergrad, h: high school student, __Bold__: lab members.
 
 ## Pre-prints
-__Kenia Segura Abá__, __Paulo Izquierdo__, __Gustavo de Los Campos__,  __Melissa D. Lehti-Shiu__, __Shin-Han Shiu__. Predictive models of the genetic bases underlying budding yeast fitness in multiple environments. *BioRxiv* (2025): 2025-10. [doi](https://doi.org/10.1101/2025.10.20.683436)
+__Kenia Segura Abá__, __Paulo Izquierdo__, Gustavo de Los Campos,  __Melissa D. Lehti-Shiu__, __Shin-Han Shiu__. Predictive models of the genetic bases underlying budding yeast fitness in multiple environments. *BioRxiv* (2025): 2025-10. [doi](https://doi.org/10.1101/2025.10.20.683436)
 
 ## 2025
 
