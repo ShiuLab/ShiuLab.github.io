@@ -12,11 +12,11 @@ permalink: "/publications_last5/"
 __Notation__: e: joint first/corresponding, u:undergrad, h: high school student, __Bold__: lab members.
 
 ## Pre-prints
-
+__Kenia Segura Abá__, __Paulo Izquierdo__, __Gustavo de Los Campos__,  __Melissa D. Lehti-Shiu__, __Shin-Han Shiu__. Predictive models of the genetic bases underlying budding yeast fitness in multiple environments. *BioRxiv* (2025): 2025-10. [doi](https://doi.org/10.1101/2025.10.20.683436)
 
 ## 2025
 
-__Peipei Wang__<font color="green"><sup>e</sup></font>, __Fanrui Meng__, __Christina B Del Azodi__, __Kenia Segura Aba__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology*, p.kiaf188 [doi](https://doi.org/10.1093/plphys/kiaf188), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
+__Peipei Wang__<font color="green"><sup>e</sup></font>, __Fanrui Meng__, __Christina B Del Azodi__, __Kenia Segura Abá__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology*, p.kiaf188 [doi](https://doi.org/10.1093/plphys/kiaf188), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
 
 Aranguiz K, Horianopoulos LC, Elkin L, __Abá KS__, Jordahl D, Overmyer KA, Wrobel RL, Coon JJ, __Shiu SH__, Rokas A, Hittinger CT. Machine learning reveals genes impacting oxidative stress resistance across yeasts. *Nature Communications*, 16(1), p.5866. [doi](https://doi.org/10.1038/s41467-025-60189-3), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40592811)
 
