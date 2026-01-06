@@ -11,6 +11,26 @@ permalink: "/publications_older/"
 
 __Notation__: <font color="green"><sup>e</sup></font>: joint first/corresponding, <font color="red"><sup>u</sup></font>:undergrad, <sup>h</sup>:high school student, __Bold__: lab members, <font color="blue"><sup>Rev</sup></font>: review.
 
+## 2020
+
+Liu WY, Lin HH, Yu CP, Chang CK, Chen HJ, Lin JY, Lu MYJ, Tu SL, **Shiu SH** Wu SH, Ku MSB, Li WH. Maize ANT1 modulates vascular development, chloroplast development, photosynthesis and plant growth. *Proc. Natl. Acad. Sci., USA* 117(35):21747 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32817425/)
+
+**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH**. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *In Silico Plants* 2(1):diaa005 [doi](https://doi.org/10.1093/insilicoplants/diaa005)
+
+**Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *Nuc Acid Res-Genomics & Bioinformatics* 2(3):lqaa049 [doi](https://doi-org.proxy2.cl.msu.edu/10.1093/nargab/lqaa049)
+
+Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife* 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
+
+**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. <font color="blue">[review]</font> *Trends in Genetics* 36(6):442 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32396837/)
+
+Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* 117:7482 [pumbed](https://pubmed.ncbi.nlm.nih.gov/32170020)
+
+**Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* 21:159 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32054475)
+
+Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* 182(3):1420 [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
+
+**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
+
 ## 2019
 
 **Azodi CB, Bolger E<font color="red"><sup>u</sup></font>**, McCarren A, Roantree M, de los Campos G, **Shiu SH** (2019) Benchmarking algorithms for genomic prediction of complex traits. *G3* 9(11):3691 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31533955)

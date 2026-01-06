@@ -12,11 +12,11 @@ permalink: "/publications_last5/"
 __Notation__: e: joint first/corresponding, u:undergrad, h: high school student, __Bold__: lab members.
 
 ## Pre-prints
-
+__Kenia Segura Abá__, __Paulo Izquierdo__, Gustavo de Los Campos,  __Melissa D. Lehti-Shiu__, __Shin-Han Shiu__. Predictive models of the genetic bases underlying budding yeast fitness in multiple environments. *BioRxiv* (2025): 2025-10. [doi](https://doi.org/10.1101/2025.10.20.683436)
 
 ## 2025
 
-__Peipei Wang__<font color="green"><sup>e</sup></font>, __Fanrui Meng__, __Christina B Del Azodi__, __Kenia Segura Aba__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology*, p.kiaf188 [doi](https://doi.org/10.1093/plphys/kiaf188), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
+__Peipei Wang__<font color="green"><sup>e</sup></font>, __Fanrui Meng__, __Christina B Del Azodi__, __Kenia Segura Abá__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology*, p.kiaf188 [doi](https://doi.org/10.1093/plphys/kiaf188), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
 
 Aranguiz K, Horianopoulos LC, Elkin L, __Abá KS__, Jordahl D, Overmyer KA, Wrobel RL, Coon JJ, __Shiu SH__, Rokas A, Hittinger CT. Machine learning reveals genes impacting oxidative stress resistance across yeasts. *Nature Communications*, 16(1), p.5866. [doi](https://doi.org/10.1038/s41467-025-60189-3), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40592811)
 
@@ -78,24 +78,6 @@ Dale R, Oswald S, Jalihal A, Laporte M, Fletcher DM, Hubbard A, __Shiu SH__, Nel
 
 Baetsen-Young A, Chen H, **Shiu SH**, Day B. Contrasting transcriptional responses to Fusarium virguliforme infection in symptomatic and asymptomatic hosts. *Plant Cell* 17;33(2):224-247 [pubmed](https://pubmed.ncbi.nlm.nih.gov/33681966/)
 
-## 2020
 
-Liu WY, Lin HH, Yu CP, Chang CK, Chen HJ, Lin JY, Lu MYJ, Tu SL, **Shiu SH** Wu SH, Ku MSB, Li WH. Maize ANT1 modulates vascular development, chloroplast development, photosynthesis and plant growth. *Proc. Natl. Acad. Sci., USA* 117(35):21747 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32817425/)
-
-**Moore BM**, **Wang P**, Fan P, **Lee A**<font color="red"><sup>u</sup></font>, Leong B, Lou YR, Schenck C, Sugimoto K, Last R, **Lehti-Shiu MD**, Barry CS, **Shiu SH**. Within and cross species predictions of plant specialized metabolism genes using transfer learning. *In Silico Plants* 2(1):diaa005 [doi](https://doi.org/10.1093/insilicoplants/diaa005)
-
-**Azodi CB, Lloyd JP, Shiu SH**. The cis-regulatory codes of response to combined heat and drought stress in Arabidopsis thaliana. *Nuc Acid Res-Genomics & Bioinformatics* 2(3):lqaa049 [doi](https://doi-org.proxy2.cl.msu.edu/10.1093/nargab/lqaa049)
-
-Fan P, **Wang P**, Lou YR, Leong BJ, **Moore BM**, Schenck CA, Combs R, Cao P, Brandizzi F, **Shiu SH**, Last RL. Evolution of a plant gene cluster in Solanaceae and emergence of metabolic diversity. *eLife* 9:e56717 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32613943/)
-
-**Azodi CB**, Tang J, **Shiu SH**. Opening the black box: interpretable machine learning for geneticists. <font color="blue">[review]</font> *Trends in Genetics* 36(6):442 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32396837/)
-
-Bao Y, Song W, **Wang P**, Yu X, Li B, Jiang C, **Shiu SH**, Zhang H, Bassham DC (2020) The plant-specific COST1 protein balances plant growth and drought tolerance via attenuation of autophagy. *Proc. Natl. Acad. Sci. USA* 117:7482 [pumbed](https://pubmed.ncbi.nlm.nih.gov/32170020)
-
-**Panchy NL**, **Lloyd JP**, **Shiu SH** (2020) Improved recovery of cell-cycle gene expression in *Saccharomyces cerevisiae* from regulatory interactions in multiple omics data. *BMC Genomics* 21:159 [pubmed](https://pubmed.ncbi.nlm.nih.gov/32054475)
-
-Schwarz B, **Azodi CB**, **Shiu SH**, Bauer P  (2020) Putative cis-regulatory elements predict iron deficiency responses in *Arabidopsis* roots. *Plant Physiol* 182(3):1420 [pubmed](https://pubmed.ncbi.nlm.nih.gov/31937681)
-
-**Azodi CB**, Pardo J, VanBuren R, de los Campos G, **Shiu SH** (2020) Transcriptome-based prediction of complex traits in maize. *Plant Cell* 32:139-151 [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31641024)
 
 [Click here for publications >5 years old](https://shiulab.github.io/publications_older/)
