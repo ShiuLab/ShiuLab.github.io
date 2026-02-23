@@ -34,6 +34,7 @@ permalink: "/people_current/"
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+   li><img src="Huan_2026.png" alt='photo of Huan'><p>Huan Chen<br>Data Scientist</p></li>
   <li><img src="Paulo.jpg" alt='photo of Paulo'><p>Paulo Izquierdo<br>Postdoctoral scholar</p></li>
   <li><img src="Rajneesh.jpg" alt='photo of Rajneesh'><p>Rajneesh Singhal<br>Postdoctoral scholar</p></li>
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
