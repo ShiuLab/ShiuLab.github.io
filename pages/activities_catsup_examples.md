@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup_examples/"
 ---
+### 4/10/2026: AI and Cognitive Atrophy
+The Shiu Lab talked about the best ways to continue to think critically while utilizing AI tools. Given multiple sources, an AI-created podcast was listened to and the lab reflected on the new technologies and prevention of cognitive atrophy.
+
 ### 6/20/2025: [Navigating the pitfalls of applying machine learning in genomics](https://www.nature.com/articles/s41576-021-00434-9)
 Discussing potential pitfalls and different opinions on what pitfalls are for different approaches to machine learning help improve the methods the Lab takes in its own projects. This week, the discussion revolved around what is a pitfall, what is purposeful design to answer a specific biological question, and how a scientist can communicate experimental design choices. 
 
