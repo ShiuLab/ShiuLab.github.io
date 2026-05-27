@@ -11,6 +11,11 @@ header:
 
 <table style="width:100%">
   <col width="50px" />
+  <tr>
+    <td><img src="../images/people_past/Paulo.jpg"  width="40px"></td>
+    <td>Paulo Izquierdo (2024-26)</td>
+    <td>Assistant Professor, Department of Plant and Environmental Sciences</td>
+  </tr>
     <tr>
     <td><img src="../images/people_past/jyothi.jpg"  width="40px"></td>
     <td>Jyothi Kumar (2018-23)</td>

@@ -13,7 +13,6 @@ permalink: "/people_current/"
 
 <H3>Graduate Students & Associates</H3>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="thilanka.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Plant Biology</p></li>
   <li><img src="Kenya.png" alt='photo of Kenia'><p> Kenia Segura Abá<br>Genetics & Genome Sciences</p></li>
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
   <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Comp Math, Sci & Engr</p></li>
@@ -34,8 +33,7 @@ permalink: "/people_current/"
 <html>
 <body>
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-  <li><img src="Huan_2026.png" alt='photo of Huan'><p>Huan Chen<br>Data Scientist</p></li>
-  <li><img src="Paulo.jpg" alt='photo of Paulo'><p>Paulo Izquierdo<br>Postdoctoral scholar</p></li>
+  <li><img src="Thilanka_new.jpg" alt='photo of thilanka'><p>Thilanka Ranaweera<br>Postdoctoral scholar</p></li>
   <li><img src="Rajneesh.jpg" alt='photo of Rajneesh'><p>Rajneesh Singhal<br>Postdoctoral scholar</p></li>
   <li><img src="melissa.jpg" alt='photo of melissa'><p>Melissa Lehti-Shiu<br>Research Asst Professor</p></li>
   <li><img src="shinhan.png" alt='photo of shinhan'><p><a href="https://directory.natsci.msu.edu/Directory/Profiles/Person/101073">Shin-Han Shiu</a><br>Professor, <a href="https://shiulab.github.io/files/cv/cv_shiu.pdf">CV</a></p></li>

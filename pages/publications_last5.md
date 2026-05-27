@@ -14,6 +14,8 @@ __Notation__: e: joint first/corresponding, u:undergrad, h: high school student,
 ## Pre-prints
 __Kenia Segura Abá__, __Paulo Izquierdo__, Gustavo de Los Campos,  __Melissa D. Lehti-Shiu__, __Shin-Han Shiu__. Predictive models of the genetic bases underlying budding yeast fitness in multiple environments. *BioRxiv* (2025): 2025-10. [doi](https://doi.org/10.1101/2025.10.20.683436)
 
+__Izquierdo, Paulo__, Xiaoyu Weng, Thomas E. Juenger, Jason Bonnette, Yuko Yoshinaga, Chris Daum, Anna Lipzen, Kerrie Barry, Matthew Blow, __Melissa D. Lehti-Shiu__, David B. Lowry, __Shin-Han Shiu__. Uncovering genetic mechanisms underlying trait variation in switchgrass using explainable artificial intelligence. *bioRxiv* (2026): 2026-03. [doi] https://doi.org/10.64898/2026.03.06.710154
+
 ## 2025
 
 __Peipei Wang__<font color="green"><sup>e</sup></font>, __Fanrui Meng__, __Christina B Del Azodi__, __Kenia Segura Abá__, Michael D. Casler, __Shin-Han Shiu__<font color="green"><sup>e</sup></font>. Optimizing genomic prediction for complex traits via investigating multiple factors in switchgrass. *Plant Physiology*, p.kiaf188 [doi](https://doi.org/10.1093/plphys/kiaf188), [pubmed](https://pubmed.ncbi.nlm.nih.gov/40331363/)
