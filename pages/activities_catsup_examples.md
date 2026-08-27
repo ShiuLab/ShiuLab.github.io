@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup_examples/"
 ---
+### 8/21/2026: Picnic and Graphical Representations
+The lab had a picnic near the rose garden! The positives and negatives of different approaches for representing single cell expression data at a gene level across cell type clusters was discussed. 
+
 ### 4/10/2026: AI and Cognitive Atrophy
 The Shiu Lab talked about the best ways to continue to think critically while utilizing AI tools. Given multiple sources, an AI-created podcast was listened to and the lab reflected on the new technologies and prevention of cognitive atrophy.
 
