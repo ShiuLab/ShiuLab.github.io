@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup_examples/"
 ---
+### 8/28/2026: Regenerative Agriculture
+[MSU](https://www.canr.msu.edu/news/it-isn-t-the-cow-it-s-the-how-how-msu-research-advances-regenerative-ag-in-grazing-systems) has professors working on regenerative agriculture and answering questions related to cows while [others](https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it) are discussing the potential of regenerative agriculture for crops. Policies, feasibility, drawbacks, and possibilities were all talked about today while lab members thought about potential research questions that could be posed to learn more about regenerative agriculture and potential capabilities.
+
 ### 8/21/2026: Picnic and Graphical Representations
 The lab had a picnic near the rose garden! The positives and negatives of different approaches for representing single cell expression data at a gene level across cell type clusters was discussed. 
 
