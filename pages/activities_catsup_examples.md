@@ -7,6 +7,9 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup_examples/"
 ---
+### 09/11/2026: SHAP Values
+Two members of the lab worked together to create an overview, with references for useful papers on SHAP values and presented their overview to the lab. How SHAP values can be interpreted, global vs. local interpretation, and SHAP interaction scores were also discussed.
+
 ### 8/28/2026: Regenerative Agriculture
 [MSU](https://www.canr.msu.edu/news/it-isn-t-the-cow-it-s-the-how-how-msu-research-advances-regenerative-ag-in-grazing-systems) has professors working on regenerative agriculture and answering questions related to cows while [others](https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it) are discussing the potential of regenerative agriculture for crops. Policies, feasibility, drawbacks, and possibilities were all talked about today while lab members thought about potential research questions that could be posed to learn more about regenerative agriculture and potential capabilities.
 
