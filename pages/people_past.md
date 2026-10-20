@@ -19,7 +19,7 @@ header:
     <tr>
     <td><img src="../images/people_past/jyothi.jpg"  width="40px"></td>
     <td>Jyothi Kumar (2018-23)</td>
-    <td>California Riverside</td>
+    <td>University of California Riverside</td>
   </tr>
   <tr>
     <td><img src="../images/people_past/peipei.jpg"  width="40px"></td>
