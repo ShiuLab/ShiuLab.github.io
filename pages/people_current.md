@@ -16,7 +16,6 @@ permalink: "/people_current/"
   <li><img src="Kenya.png" alt='photo of Kenia'><p> Kenia Segura Abá<br>Genetics & Genome Sciences</p></li>
   <li><img src="Briyana.jpg" alt='photo of Brianna'><p>Brianna Brown<br>Plant Biology</p></li>
   <li><img src="Jingyao.jpg" alt='photo of Jingyao'><p>Jingyao Tang<br>Comp Math, Sci & Engr</p></li>
-  <li><img src="Thejesh.jpg" alt='photo of Thejesh'><p>Thejesh Mallidi<br>Data Science</p></li>
   <li><img src="Shang_huan.jpg" alt='photo of Shanh'><p>Shang-Huan Chiang<br>Plant Biology</p></li>
   <li><img src="Yasasree.jpg" alt='photo of Yasaree'><p>Yasasree Singam<br>Data Scientist</p></li>
 </ul>
@@ -25,7 +24,7 @@ permalink: "/people_current/"
 <ul class="small-block-grid-2 medium-block-grid-3 large-block-grid-4">
   <li><img src="Apurva.jpg" alt='photo of Apurva'><p>Apurva Poddar<br>Human Biology</p></li>
   <li><img src="Mosses.jpg" alt='photo of Mosses'><p>Moses Barnie<br>Computer Science</p></li>
-  <li><img src="Lisett.png" alt='photo of Lisett'><p>Lisett Becerra<br>Plant Biology</p></li>
+  <li><img src="Sonia.png" alt='photo of Sonia'><p>Sonia De Donno, <br>Genetics,Genomics and Microbiology</p></li>
 </ul>
 
 

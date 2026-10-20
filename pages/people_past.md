@@ -56,6 +56,11 @@ header:
 ## Graduate Students & Associates
 <table style="width:100%">
   <col width="50px" />
+    <tr>
+    <td><img src="../images/people_past/Thejesh.jpg" width="40px"> </td>
+    <td>Thejesh Mallidi (2023-25) MSc in Data Science</td>
+    <td> - </td>
+  </tr>
   <tr>
     <td><img src="../images/people_past/Edmund.jpg" width="40px"> </td>
     <td>Edmond Anderson (2023-25) MSc in Data Science</td>
@@ -130,6 +135,11 @@ header:
 
 ## Undergrads (MSU)
 <table style="width:100%">
+<tr>
+    <td><img src="../images/people_past/Lisett.png" width="40px"> </td>
+    <td>Lisett Becerra (2024-26)</td>
+    <td>Plant Biology</td>
+  </tr>
 <tr>
     <td><img src="../images/people_past/Skylar.jpg" width="40px"> </td>
     <td>Skylar Fusco (2023-25)</td>
