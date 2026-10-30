@@ -7,7 +7,13 @@ header:
    image_fullwidth: "header_homepage_13.jpg"
 permalink: "/activities_catsup_examples/"
 ---
-### 09/11/2026: SHAP Values
+### 10/30/2026: [A Deep Time Landscape of Plant Cis-regulatory Sequence Evolution](https://doi.org/10.1126/science.adt8983)
+The discussion centered around how conserved noncoding sequences can be used and were used in a paper by Amundson et al. to reach further back into time to identify cis-regulatory conservation across distantly related plant species.
+
+### 10/16/2026: Experimental + Computational – Protein-Protein Interactions (PPIs)
+An overview of how experimental and computational approaches to PPI discovery was discussed, inspired by a paper written by [Rapti, Janssen & Bonvin](https://www.nature.com/articles/s44222-026-00464-0). Experimental techniques on how to detect PPIs were also discussed.
+
+### 9/11/2026: SHAP Values
 Two members of the lab worked together to create an overview, with references for useful papers on SHAP values and presented their overview to the lab. How SHAP values can be interpreted, global vs. local interpretation, and SHAP interaction scores were also discussed.
 
 ### 8/28/2026: Regenerative Agriculture
